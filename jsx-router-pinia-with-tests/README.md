@@ -28,10 +28,10 @@ pnpm dev
 pnpm build
 ```
 
-### Run Unit Tests with [Cypress Component Testing](https://docs.cypress.io/guides/component-testing/introduction)
+### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
-pnpm test:unit # or `pnpm test:unit:ci` for headless testing
+pnpm test:unit
 ```
 
 ### Run End-to-End Tests with [Cypress](https://www.cypress.io/)

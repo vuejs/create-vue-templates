@@ -1,13 +1,11 @@
-import { mount } from '@cypress/vue'
+import { describe, it, expect } from 'vitest'
+
+import { mount } from '@vue/test-utils'
 import HelloWorld from '../HelloWorld.vue'
 
 describe('HelloWorld', () => {
-  it('playground', () => {
-    mount(HelloWorld, { props: { msg: 'Hello Cypress' } })
-  })
-
   it('renders properly', () => {
-    mount(HelloWorld, { props: { msg: 'Hello Cypress' } })
-    cy.get('h1').should('contain', 'Hello Cypress')
+    const wrapper = mount(HelloWorld, { props: { msg: 'Hello Vitest' } })
+    expect(wrapper.text()).toContain('Hello Vitest')
   })
 })
