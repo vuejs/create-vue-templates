@@ -7,15 +7,15 @@
     "test:unit": "vitest --environment jsdom"
   },
   "dependencies": {
-    "pinia": "^2.0.9",
-    "vue": "^3.2.27",
+    "pinia": "^2.0.11",
+    "vue": "^3.2.29",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.0.1",
+    "@vitejs/plugin-vue": "^2.1.0",
     "@vue/test-utils": "^2.0.0-rc.18",
     "jsdom": "^19.0.0",
     "vite": "^2.7.13",
-    "vitest": "^0.1.23"
+    "vitest": "^0.2.5"
   }
 }

@@ -10,14 +10,14 @@
     "test:unit:ci": "cypress run-ct --quiet --reporter spec"
   },
   "dependencies": {
-    "vue": "^3.2.27",
+    "vue": "^3.2.29",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@cypress/vite-dev-server": "^2.2.2",
     "@cypress/vue": "^3.1.0",
-    "@vitejs/plugin-vue": "^2.0.1",
-    "cypress": "^9.3.1",
+    "@vitejs/plugin-vue": "^2.1.0",
+    "cypress": "^9.4.1",
     "start-server-and-test": "^1.14.0",
     "vite": "^2.7.13"
   }
