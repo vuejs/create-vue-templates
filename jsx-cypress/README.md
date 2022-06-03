@@ -28,7 +28,7 @@ pnpm dev
 pnpm build
 ```
 
-### Run Unit Tests with [Cypress Component Testing](https://docs.cypress.io/guides/component-testing/introduction)
+### Run Headed Component Tests with [Cypress Component Testing](https://on.cypress.io/component)
 
 ```sh
 pnpm test:unit # or `pnpm test:unit:ci` for headless testing
