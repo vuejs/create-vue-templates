@@ -1,10 +1,10 @@
 # router-pinia-with-tests
 
-This template should help get you started developing with Vue 2 in Vite.
+This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
@@ -28,10 +28,10 @@ pnpm dev
 pnpm build
 ```
 
-### Run Unit Tests with [Cypress Component Testing](https://docs.cypress.io/guides/component-testing/introduction)
+### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
-pnpm test:unit # or `pnpm test:unit:ci` for headless testing
+pnpm test:unit
 ```
 
 ### Run End-to-End Tests with [Cypress](https://www.cypress.io/)

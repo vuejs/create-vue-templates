@@ -4,15 +4,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --port 5050"
+    "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "vue": "^2.7.0-0",
-    "vue-router": "^3.5.3"
+    "vue": "^2.7.4",
+    "vue-router": "^3.5.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-legacy": "^1.7.1",
-    "@vitejs/plugin-vue2": "^1.1.1",
-    "vite": "^2.8.4"
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "vite": "^2.9.14"
   }
 }
