@@ -8,13 +8,13 @@
     "test:unit": "vitest --environment jsdom"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^3.2.38"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.0.1",
+    "@vitejs/plugin-vue": "^3.0.3",
     "@vue/test-utils": "^2.0.2",
     "jsdom": "^20.0.0",
-    "vite": "^3.0.4",
-    "vitest": "^0.21.0"
+    "vite": "^3.0.9",
+    "vitest": "^0.22.1"
   }
 }
