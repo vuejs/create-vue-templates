@@ -1,6 +1,7 @@
 {
   "name": "router-pinia-cypress",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,14 +12,14 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
-    "pinia": "^2.0.23",
-    "vue": "^3.2.41",
-    "vue-router": "^4.1.5"
+    "pinia": "^2.0.26",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.1.2",
-    "cypress": "^10.10.0",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "cypress": "^11.2.0",
     "start-server-and-test": "^1.14.0",
-    "vite": "^3.1.8"
+    "vite": "^3.2.4"
   }
 }

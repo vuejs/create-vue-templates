@@ -1,17 +1,18 @@
 {
   "name": "router",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.41",
-    "vue-router": "^4.1.5"
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.1.2",
-    "vite": "^3.1.8"
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4"
   }
 }
