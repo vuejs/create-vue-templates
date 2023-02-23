@@ -6,19 +6,19 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test:unit": "vitest --environment jsdom --root src/",
+    "test:unit": "vitest",
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "pinia": "^2.0.28",
-    "vue": "^3.2.45"
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47"
   },
   "devDependencies": {
-    "@playwright/test": "^1.28.1",
+    "@playwright/test": "^1.30.0",
     "@vitejs/plugin-vue": "^4.0.0",
-    "@vue/test-utils": "^2.2.6",
-    "jsdom": "^20.0.3",
-    "vite": "^4.0.0",
-    "vitest": "^0.25.6"
+    "@vue/test-utils": "^2.3.0",
+    "jsdom": "^21.1.0",
+    "vite": "^4.1.3",
+    "vitest": "^0.28.5"
   }
 }
