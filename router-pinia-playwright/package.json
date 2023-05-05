@@ -9,13 +9,13 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "pinia": "^2.0.32",
+    "pinia": "^2.0.35",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@playwright/test": "^1.31.1",
-    "@vitejs/plugin-vue": "^4.0.0",
-    "vite": "^4.1.4"
+    "@playwright/test": "^1.33.0",
+    "@vitejs/plugin-vue": "^4.2.1",
+    "vite": "^4.3.4"
   }
 }
