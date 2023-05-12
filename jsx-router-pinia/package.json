@@ -8,13 +8,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "pinia": "^2.0.35",
-    "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "pinia": "^2.0.36",
+    "vue": "^3.3.2",
+    "vue-router": "^4.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.1",
+    "@vitejs/plugin-vue": "^4.2.3",
     "@vitejs/plugin-vue-jsx": "^3.0.1",
-    "vite": "^4.3.4"
+    "vite": "^4.3.5"
   }
 }

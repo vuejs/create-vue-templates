@@ -5,163 +5,163 @@ importers:
   cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   default:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -169,24 +169,24 @@ importers:
   jsx-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -194,8 +194,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -203,30 +203,30 @@ importers:
   jsx-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -234,24 +234,24 @@ importers:
   jsx-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -259,8 +259,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -268,168 +268,168 @@ importers:
   jsx-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -437,27 +437,27 @@ importers:
   jsx-router-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -465,8 +465,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -474,33 +474,33 @@ importers:
   jsx-router-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -508,27 +508,27 @@ importers:
   jsx-router-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -536,8 +536,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -545,49 +545,49 @@ importers:
   jsx-router-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   jsx-router-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -595,24 +595,24 @@ importers:
   jsx-router-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -620,8 +620,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -629,30 +629,30 @@ importers:
   jsx-router-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -660,24 +660,24 @@ importers:
   jsx-router-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -685,8 +685,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -694,24 +694,24 @@ importers:
   jsx-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -719,21 +719,21 @@ importers:
   jsx-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -741,8 +741,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -750,27 +750,27 @@ importers:
   jsx-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -778,21 +778,21 @@ importers:
   jsx-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -800,8 +800,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -809,81 +809,81 @@ importers:
   pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -891,21 +891,21 @@ importers:
   pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -913,8 +913,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -922,27 +922,27 @@ importers:
   pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -950,21 +950,21 @@ importers:
   pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -972,8 +972,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -981,147 +981,147 @@ importers:
   playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1129,24 +1129,24 @@ importers:
   router-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1154,8 +1154,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1163,30 +1163,30 @@ importers:
   router-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1194,24 +1194,24 @@ importers:
   router-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1219,8 +1219,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1228,43 +1228,43 @@ importers:
   router-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
 
   router-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1272,21 +1272,21 @@ importers:
   router-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1294,8 +1294,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1303,27 +1303,27 @@ importers:
   router-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1331,21 +1331,21 @@ importers:
   router-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1353,8 +1353,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1362,21 +1362,21 @@ importers:
   typescript:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1384,8 +1384,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1393,24 +1393,24 @@ importers:
   typescript-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1421,8 +1421,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1430,24 +1430,24 @@ importers:
   typescript-jsx:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1455,8 +1455,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1464,27 +1464,27 @@ importers:
   typescript-jsx-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1495,8 +1495,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1504,27 +1504,27 @@ importers:
   typescript-jsx-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1532,8 +1532,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1541,30 +1541,30 @@ importers:
   typescript-jsx-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1575,8 +1575,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1584,30 +1584,30 @@ importers:
   typescript-jsx-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1615,8 +1615,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1624,33 +1624,33 @@ importers:
   typescript-jsx-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1661,8 +1661,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1673,36 +1673,36 @@ importers:
   typescript-jsx-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1716,8 +1716,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1728,36 +1728,36 @@ importers:
   typescript-jsx-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1768,8 +1768,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1780,36 +1780,36 @@ importers:
   typescript-jsx-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -1823,8 +1823,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -1835,27 +1835,27 @@ importers:
   typescript-jsx-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1863,8 +1863,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1872,27 +1872,27 @@ importers:
   typescript-jsx-router:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1900,8 +1900,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1909,30 +1909,30 @@ importers:
   typescript-jsx-router-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1943,8 +1943,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1952,30 +1952,30 @@ importers:
   typescript-jsx-router-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1983,8 +1983,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -1992,33 +1992,33 @@ importers:
   typescript-jsx-router-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2029,8 +2029,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2038,33 +2038,33 @@ importers:
   typescript-jsx-router-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2072,8 +2072,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2081,36 +2081,36 @@ importers:
   typescript-jsx-router-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2121,8 +2121,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2133,39 +2133,39 @@ importers:
   typescript-jsx-router-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2179,8 +2179,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2191,39 +2191,39 @@ importers:
   typescript-jsx-router-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2234,8 +2234,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2246,39 +2246,39 @@ importers:
   typescript-jsx-router-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2292,8 +2292,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2304,30 +2304,30 @@ importers:
   typescript-jsx-router-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2335,8 +2335,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2344,33 +2344,33 @@ importers:
   typescript-jsx-router-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2381,8 +2381,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2393,36 +2393,36 @@ importers:
   typescript-jsx-router-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2436,8 +2436,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2448,36 +2448,36 @@ importers:
   typescript-jsx-router-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2488,8 +2488,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2500,36 +2500,36 @@ importers:
   typescript-jsx-router-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2543,8 +2543,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2555,30 +2555,30 @@ importers:
   typescript-jsx-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2589,8 +2589,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2601,33 +2601,33 @@ importers:
   typescript-jsx-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2641,8 +2641,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2653,33 +2653,33 @@ importers:
   typescript-jsx-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2690,8 +2690,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2702,33 +2702,33 @@ importers:
   typescript-jsx-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vitejs/plugin-vue-jsx':
         specifier: ^3.0.1
-        version: 3.0.1(vite@4.3.4)(vue@3.2.47)
+        version: 3.0.1(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2742,8 +2742,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2754,24 +2754,24 @@ importers:
   typescript-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2779,8 +2779,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2788,27 +2788,27 @@ importers:
   typescript-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2819,8 +2819,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2828,27 +2828,27 @@ importers:
   typescript-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -2856,8 +2856,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -2865,30 +2865,30 @@ importers:
   typescript-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2899,8 +2899,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2911,33 +2911,33 @@ importers:
   typescript-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -2951,8 +2951,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -2963,33 +2963,33 @@ importers:
   typescript-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3000,8 +3000,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3012,33 +3012,33 @@ importers:
   typescript-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3052,8 +3052,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3064,24 +3064,24 @@ importers:
   typescript-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3089,8 +3089,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3098,24 +3098,24 @@ importers:
   typescript-router:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3123,8 +3123,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3132,27 +3132,27 @@ importers:
   typescript-router-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3163,8 +3163,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3172,27 +3172,27 @@ importers:
   typescript-router-pinia:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3200,8 +3200,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3209,30 +3209,30 @@ importers:
   typescript-router-pinia-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3243,8 +3243,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3252,30 +3252,30 @@ importers:
   typescript-router-pinia-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3283,8 +3283,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3292,33 +3292,33 @@ importers:
   typescript-router-pinia-vitest:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3329,8 +3329,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3341,36 +3341,36 @@ importers:
   typescript-router-pinia-vitest-cypress:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3384,8 +3384,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3396,36 +3396,36 @@ importers:
   typescript-router-pinia-vitest-playwright:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3436,8 +3436,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3448,36 +3448,36 @@ importers:
   typescript-router-pinia-with-tests:
     dependencies:
       pinia:
-        specifier: ^2.0.35
-        version: 2.0.35(typescript@5.0.4)(vue@3.2.47)
+        specifier: ^2.0.36
+        version: 2.0.36(typescript@5.0.4)(vue@3.3.2)
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3491,8 +3491,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3503,27 +3503,27 @@ importers:
   typescript-router-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3531,8 +3531,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vue-tsc:
         specifier: ^1.6.4
         version: 1.6.4(typescript@5.0.4)
@@ -3540,30 +3540,30 @@ importers:
   typescript-router-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3574,8 +3574,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3586,33 +3586,33 @@ importers:
   typescript-router-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3626,8 +3626,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3638,33 +3638,33 @@ importers:
   typescript-router-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3675,8 +3675,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3687,33 +3687,33 @@ importers:
   typescript-router-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
       vue-router:
-        specifier: ^4.1.6
-        version: 4.1.6(vue@3.2.47)
+        specifier: ^4.2.0
+        version: 4.2.0(vue@3.3.2)
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3727,8 +3727,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3739,27 +3739,27 @@ importers:
   typescript-vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3770,8 +3770,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3782,30 +3782,30 @@ importers:
   typescript-vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3819,8 +3819,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3831,30 +3831,30 @@ importers:
   typescript-vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3865,8 +3865,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3877,30 +3877,30 @@ importers:
   typescript-with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@tsconfig/node18':
-        specifier: ^2.0.0
-        version: 2.0.0
+        specifier: ^2.0.1
+        version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
       '@types/node':
-        specifier: ^18.16.3
-        version: 18.16.3
+        specifier: ^18.16.8
+        version: 18.16.8
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       '@vue/tsconfig':
-        specifier: ^0.3.2
-        version: 0.3.2
+        specifier: ^0.4.0
+        version: 0.4.0
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3914,8 +3914,8 @@ importers:
         specifier: ~5.0.4
         version: 5.0.4
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3926,21 +3926,21 @@ importers:
   vitest:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3948,18 +3948,18 @@ importers:
   vitest-cypress:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -3967,8 +3967,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -3976,24 +3976,24 @@ importers:
   vitest-playwright:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.33.0
         version: 1.33.0
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -4001,18 +4001,18 @@ importers:
   with-tests:
     dependencies:
       vue:
-        specifier: ^3.2.47
-        version: 3.2.47
+        specifier: ^3.3.2
+        version: 3.3.2
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^4.2.1
-        version: 4.2.1(vite@4.3.4)(vue@3.2.47)
+        specifier: ^4.2.3
+        version: 4.2.3(vite@4.3.5)(vue@3.3.2)
       '@vue/test-utils':
         specifier: ^2.3.2
-        version: 2.3.2(vue@3.2.47)
+        version: 2.3.2(vue@3.3.2)
       cypress:
-        specifier: ^12.11.0
-        version: 12.11.0
+        specifier: ^12.12.0
+        version: 12.12.0
       jsdom:
         specifier: ^22.0.0
         version: 22.0.0
@@ -4020,8 +4020,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       vite:
-        specifier: ^4.3.4
-        version: 4.3.4(@types/node@18.16.3)
+        specifier: ^4.3.5
+        version: 4.3.5(@types/node@18.16.8)
       vitest:
         specifier: ^0.31.0
         version: 0.31.0(jsdom@22.0.0)
@@ -4229,11 +4229,11 @@ packages:
   /@babel/helper-string-parser@7.19.4:
     resolution: {integrity: sha512-nHtDoQcuqFmwYNYPz3Rah5ph2p8PFeFCsZk9A/48dPc/rGocJ5J3hAAZ7pb76VWX3fZKu+uEr/FhH5jLx7umrw==}
     engines: {node: '>=6.9.0'}
+    dev: true
 
   /@babel/helper-string-parser@7.21.5:
     resolution: {integrity: sha512-5pTUx3hAJaZIdW99sJ6ZUUgWq/Y+Hja7TowEnLNMm1VivRgZQL3vpBY3qUACVsvw+yQU6+YgfBVmcbLaZtrA1w==}
     engines: {node: '>=6.9.0'}
-    dev: true
 
   /@babel/helper-validator-identifier@7.19.1:
     resolution: {integrity: sha512-awrNfaMtnHUr653GgGEs++LlAvW6w+DcPrOliSMXWCKo597CwL5Acf/wWdNkf/tfEQE3mjkeD1YOVZOUV/od1w==}
@@ -4264,20 +4264,12 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@babel/parser@7.20.5:
-    resolution: {integrity: sha512-r27t/cy/m9uKLXQNWWebeCUHgnAZq0CpG1OwKRxzJMP1vpSU4bSIK2hq+/cp0bQxetkXx38n09rNu8jVkcK/zA==}
-    engines: {node: '>=6.0.0'}
-    hasBin: true
-    dependencies:
-      '@babel/types': 7.20.5
-
   /@babel/parser@7.21.8:
     resolution: {integrity: sha512-6zavDGdzG3gUqAdWvlLFfk+36RilI+Pwyuuh7HItyeScCWP3k6i8vKclAQ0bM/0y/Kz/xiwvxhMv9MgTJP5gmA==}
     engines: {node: '>=6.0.0'}
     hasBin: true
     dependencies:
       '@babel/types': 7.21.5
-    dev: true
 
   /@babel/plugin-syntax-jsx@7.18.6(@babel/core@7.21.8):
     resolution: {integrity: sha512-6mmljtAedFGTWu2p/8WIORGwy+61PLgOMPOdazc7YoJ9ZCWUyFy3A6CpPkRKLKD1ToAesxX8KGEViAiLo9N+7Q==}
@@ -4375,6 +4367,7 @@ packages:
       '@babel/helper-string-parser': 7.19.4
       '@babel/helper-validator-identifier': 7.19.1
       to-fast-properties: 2.0.0
+    dev: true
 
   /@babel/types@7.21.5:
     resolution: {integrity: sha512-m4AfNvVF2mVC/F7fDEdH2El3HzUg9It/XsCxZiOTTA3m3qYfcSVSbTfM6Q9xG+hYDniZssYhlXKKUMD5m8tF4Q==}
@@ -4383,7 +4376,6 @@ packages:
       '@babel/helper-string-parser': 7.21.5
       '@babel/helper-validator-identifier': 7.19.1
       to-fast-properties: 2.0.0
-    dev: true
 
   /@colors/colors@1.5.0:
     resolution: {integrity: sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==}
@@ -4662,7 +4654,6 @@ packages:
 
   /@jridgewell/sourcemap-codec@1.4.14:
     resolution: {integrity: sha512-XPSJHWmi394fuUuzDnGz1wiKqWfo1yXecHQMRf2l6hztTO+nPru658AyDngaBe7isIxEkRsPR3FZh+s7iVa4Uw==}
-    dev: true
 
   /@jridgewell/trace-mapping@0.3.16:
     resolution: {integrity: sha512-LCQ+NeThyJ4k1W2d+vIKdxuSt9R3pQSZ4P92m7EakaYuXcVWbHuT5bjNcqLd4Rdgi6xYWYDvBJZJLZSLanjDcA==}
@@ -4708,8 +4699,8 @@ packages:
     engines: {node: '>= 10'}
     dev: true
 
-  /@tsconfig/node18@2.0.0:
-    resolution: {integrity: sha512-uI/B0ShkiEwTk036pncXucVlj4y11EW6mycQvCEzC1PkR2TBvdQZ5Wf96dp+XXWAc70FEDfvwTqanoaDpP6rPw==}
+  /@tsconfig/node18@2.0.1:
+    resolution: {integrity: sha512-UqdfvuJK0SArA2CxhKWwwAWfnVSXiYe63bVpMutc27vpngCntGUZQETO24pEJ46zU6XM+7SpqYoMgcO3bM11Ew==}
     dev: true
 
   /@types/chai-subset@1.3.3:
@@ -4725,7 +4716,7 @@ packages:
   /@types/jsdom@21.1.1:
     resolution: {integrity: sha512-cZFuoVLtzKP3gmq9eNosUL1R50U+USkbLtUQ1bYVgl/lKp0FZM7Cq4aIHAL8oIvQ17uSHi7jXPtfDOdjPwBE7A==}
     dependencies:
-      '@types/node': 18.16.3
+      '@types/node': 18.16.8
       '@types/tough-cookie': 4.0.2
       parse5: 7.1.2
     dev: true
@@ -4736,6 +4727,10 @@ packages:
 
   /@types/node@18.16.3:
     resolution: {integrity: sha512-OPs5WnnT1xkCBiuQrZA4+YAV4HEJejmHneyraIaxsbev5yCEr6KMwINNFP9wQeFIw8FWcoTqF3vQsa5CDaI+8Q==}
+    dev: true
+
+  /@types/node@18.16.8:
+    resolution: {integrity: sha512-p0iAXcfWCOTCBbsExHIDFCfwsqFwBTgETJveKMT+Ci3LY9YqQCI91F5S+TB20+aRCXpcWfvx5Qr5EccnwCm2NA==}
     dev: true
 
   /@types/sinonjs__fake-timers@8.1.1:
@@ -4754,11 +4749,11 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 18.16.3
+      '@types/node': 18.16.8
     dev: true
     optional: true
 
-  /@vitejs/plugin-vue-jsx@3.0.1(vite@4.3.4)(vue@3.2.47):
+  /@vitejs/plugin-vue-jsx@3.0.1(vite@4.3.5)(vue@3.3.2):
     resolution: {integrity: sha512-+Jb7ggL48FSPS1uhPnJbJwWa9Sr90vQ+d0InW+AhBM22n+cfuYqJZDckBc+W3QSHe1WDvewMZfa4wZOtk5pRgw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -4768,21 +4763,21 @@ packages:
       '@babel/core': 7.21.8
       '@babel/plugin-transform-typescript': 7.21.3(@babel/core@7.21.8)
       '@vue/babel-plugin-jsx': 1.1.1(@babel/core@7.21.8)
-      vite: 4.3.4(@types/node@18.16.3)
-      vue: 3.2.47
+      vite: 4.3.5(@types/node@18.16.8)
+      vue: 3.3.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@vitejs/plugin-vue@4.2.1(vite@4.3.4)(vue@3.2.47):
-    resolution: {integrity: sha512-ZTZjzo7bmxTRTkb8GSTwkPOYDIP7pwuyV+RV53c9PYUouwcbkIZIvWvNWlX2b1dYZqtOv7D6iUAnJLVNGcLrSw==}
+  /@vitejs/plugin-vue@4.2.3(vite@4.3.5)(vue@3.3.2):
+    resolution: {integrity: sha512-R6JDUfiZbJA9cMiguQ7jxALsgiprjBeHL5ikpXfJCH62pPHtI+JdJ5xWj6Ev73yXSlYl86+blXn1kZHQ7uElxw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^4.0.0
       vue: ^3.2.25
     dependencies:
-      vite: 4.3.4(@types/node@18.16.3)
-      vue: 3.2.47
+      vite: 4.3.5(@types/node@18.16.8)
+      vue: 3.3.2
     dev: true
 
   /@vitest/expect@0.31.0:
@@ -4890,14 +4885,6 @@ packages:
       - supports-color
     dev: true
 
-  /@vue/compiler-core@3.2.47:
-    resolution: {integrity: sha512-p4D7FDnQb7+YJmO2iPEv0SQNeNzcbHdGByJDsT4lynf63AFkOTFN07HsiRSvjGo0QrxR/o3d0hUyNCUnBU2Tig==}
-    dependencies:
-      '@babel/parser': 7.20.5
-      '@vue/shared': 3.2.47
-      estree-walker: 2.0.2
-      source-map: 0.6.1
-
   /@vue/compiler-core@3.3.0-beta.3:
     resolution: {integrity: sha512-mv2rPo4JHou6ebm7+U/wO1HpA6W1zDfTqbt4fqjoXrMwU4DWNgRcLKTXG6G3cXV4mOe+2YgWspfxEzo7fPTMKg==}
     dependencies:
@@ -4907,11 +4894,13 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /@vue/compiler-dom@3.2.47:
-    resolution: {integrity: sha512-dBBnEHEPoftUiS03a4ggEig74J2YBZ2UIeyfpcRM2tavgMWo4bsEfgCGsu+uJIL/vax9S+JztH8NmQerUo7shQ==}
+  /@vue/compiler-core@3.3.2:
+    resolution: {integrity: sha512-CKZWo1dzsQYTNTft7whzjL0HsrEpMfiK7pjZ2WFE3bC1NA7caUjWioHSK+49y/LK7Bsm4poJZzAMnvZMQ7OTeg==}
     dependencies:
-      '@vue/compiler-core': 3.2.47
-      '@vue/shared': 3.2.47
+      '@babel/parser': 7.21.8
+      '@vue/shared': 3.3.2
+      estree-walker: 2.0.2
+      source-map-js: 1.0.2
 
   /@vue/compiler-dom@3.3.0-beta.3:
     resolution: {integrity: sha512-e7VpjN9wYiuJdJos6Uoe501CzdMkfaEr/27Ks4Ss7Irtcj5YA/S1OROZ35Xl2Pc3ctx6beq5RpcOvnMqh0hcaA==}
@@ -4920,19 +4909,11 @@ packages:
       '@vue/shared': 3.3.0-beta.3
     dev: true
 
-  /@vue/compiler-sfc@3.2.47:
-    resolution: {integrity: sha512-rog05W+2IFfxjMcFw10tM9+f7i/+FFpZJJ5XHX72NP9eC2uRD+42M3pYcQqDXVYoj74kHMSEdQ/WmCjt8JFksQ==}
+  /@vue/compiler-dom@3.3.2:
+    resolution: {integrity: sha512-6gS3auANuKXLw0XH6QxkWqyPYPunziS2xb6VRenM3JY7gVfZcJvkCBHkb5RuNY1FCbBO3lkIi0CdXUCW1c7SXw==}
     dependencies:
-      '@babel/parser': 7.20.5
-      '@vue/compiler-core': 3.2.47
-      '@vue/compiler-dom': 3.2.47
-      '@vue/compiler-ssr': 3.2.47
-      '@vue/reactivity-transform': 3.2.47
-      '@vue/shared': 3.2.47
-      estree-walker: 2.0.2
-      magic-string: 0.25.9
-      postcss: 8.4.21
-      source-map: 0.6.1
+      '@vue/compiler-core': 3.3.2
+      '@vue/shared': 3.3.2
 
   /@vue/compiler-sfc@3.3.0-beta.3:
     resolution: {integrity: sha512-6shZNooetShjSMHJvgVoE0EM8pOMV5vnrzsHoCU06stzV+kqRJQpbN7xf2s9wK2fgHMIBSMINrM9AuZiQnNCJg==}
@@ -4949,11 +4930,19 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /@vue/compiler-ssr@3.2.47:
-    resolution: {integrity: sha512-wVXC+gszhulcMD8wpxMsqSOpvDZ6xKXSVWkf50Guf/S+28hTAXPDYRTbLQ3EDkOP5Xz/+SY37YiwDquKbJOgZw==}
+  /@vue/compiler-sfc@3.3.2:
+    resolution: {integrity: sha512-jG4jQy28H4BqzEKsQqqW65BZgmo3vzdLHTBjF+35RwtDdlFE+Fk1VWJYUnDMMqkFBo6Ye1ltSKVOMPgkzYj7SQ==}
     dependencies:
-      '@vue/compiler-dom': 3.2.47
-      '@vue/shared': 3.2.47
+      '@babel/parser': 7.21.8
+      '@vue/compiler-core': 3.3.2
+      '@vue/compiler-dom': 3.3.2
+      '@vue/compiler-ssr': 3.3.2
+      '@vue/reactivity-transform': 3.3.2
+      '@vue/shared': 3.3.2
+      estree-walker: 2.0.2
+      magic-string: 0.30.0
+      postcss: 8.4.23
+      source-map-js: 1.0.2
 
   /@vue/compiler-ssr@3.3.0-beta.3:
     resolution: {integrity: sha512-egJ0lEVAod3Hpnw96cJ/0a9qv5f5h5/VCBpKYT8scqkzoMsikh8AJant2omokBCL/Ut5UAMLVQlA5b66+2Ys/g==}
@@ -4962,22 +4951,15 @@ packages:
       '@vue/shared': 3.3.0-beta.3
     dev: true
 
-  /@vue/devtools-api@6.4.5:
-    resolution: {integrity: sha512-JD5fcdIuFxU4fQyXUu3w2KpAJHzTVdN+p4iOX2lMWSHMOoQdMAcpFLZzm9Z/2nmsoZ1a96QEhZ26e50xLBsgOQ==}
-    dev: false
+  /@vue/compiler-ssr@3.3.2:
+    resolution: {integrity: sha512-K8OfY5FQtZaSOJHHe8xhEfIfLrefL/Y9frv4k4NsyQL3+0lRKxr9QuJhfdBDjkl7Fhz8CzKh63mULvmOfx3l2w==}
+    dependencies:
+      '@vue/compiler-dom': 3.3.2
+      '@vue/shared': 3.3.2
 
   /@vue/devtools-api@6.5.0:
     resolution: {integrity: sha512-o9KfBeaBmCKl10usN4crU53fYtC1r7jJwdGKjPT24t348rHxgfpZ0xL3Xm/gLUYnc0oTp8LAmrxOeLyu6tbk2Q==}
     dev: false
-
-  /@vue/reactivity-transform@3.2.47:
-    resolution: {integrity: sha512-m8lGXw8rdnPVVIdIFhf0LeQ/ixyHkH5plYuS83yop5n7ggVJU+z5v0zecwEnX7fa7HNLBhh2qngJJkxpwEEmYA==}
-    dependencies:
-      '@babel/parser': 7.20.5
-      '@vue/compiler-core': 3.2.47
-      '@vue/shared': 3.2.47
-      estree-walker: 2.0.2
-      magic-string: 0.25.9
 
   /@vue/reactivity-transform@3.3.0-beta.3:
     resolution: {integrity: sha512-aM3TgBca9QMMu/9B9ASRVvckeZpAdJO9nmQh5UCznhoDYjVxQPS+sCQvH6TLOjPB1MDQMVQYg4ZiPqfVVo7NbA==}
@@ -4989,10 +4971,14 @@ packages:
       magic-string: 0.30.0
     dev: true
 
-  /@vue/reactivity@3.2.47:
-    resolution: {integrity: sha512-7khqQ/75oyyg+N/e+iwV6lpy1f5wq759NdlS1fpAhFXa8VeAIKGgk2E/C4VF59lx5b+Ezs5fpp/5WsRYXQiKxQ==}
+  /@vue/reactivity-transform@3.3.2:
+    resolution: {integrity: sha512-iu2WaQvlJHdnONrsyv4ibIEnSsuKF+aHFngGj/y1lwpHQtalpVhKg9wsKMoiKXS9zPNjG9mNKzJS9vudvjzvyg==}
     dependencies:
-      '@vue/shared': 3.2.47
+      '@babel/parser': 7.21.8
+      '@vue/compiler-core': 3.3.2
+      '@vue/shared': 3.3.2
+      estree-walker: 2.0.2
+      magic-string: 0.30.0
 
   /@vue/reactivity@3.3.0-beta.3:
     resolution: {integrity: sha512-9VjWfWgZJ18YXEkfnDfZr33RyLBa6zc0RARLkMqMApWvM26eusZAZ4hhyxlgODBU/mEFk4XOGIAtwwSQedA0MQ==}
@@ -5000,49 +4986,54 @@ packages:
       '@vue/shared': 3.3.0-beta.3
     dev: true
 
-  /@vue/runtime-core@3.2.47:
-    resolution: {integrity: sha512-RZxbLQIRB/K0ev0K9FXhNbBzT32H9iRtYbaXb0ZIz2usLms/D55dJR2t6cIEUn6vyhS3ALNvNthI+Q95C+NOpA==}
+  /@vue/reactivity@3.3.2:
+    resolution: {integrity: sha512-yX8C4uTgg2Tdj+512EEMnMKbLveoITl7YdQX35AYgx8vBvQGszKiiCN46g4RY6/deeo/5DLbeUUGxCq1qWMf5g==}
     dependencies:
-      '@vue/reactivity': 3.2.47
-      '@vue/shared': 3.2.47
+      '@vue/shared': 3.3.2
 
-  /@vue/runtime-dom@3.2.47:
-    resolution: {integrity: sha512-ArXrFTjS6TsDei4qwNvgrdmHtD930KgSKGhS5M+j8QxXrDJYLqYw4RRcDy1bz1m1wMmb6j+zGLifdVHtkXA7gA==}
+  /@vue/runtime-core@3.3.2:
+    resolution: {integrity: sha512-qSl95qj0BvKfcsO+hICqFEoLhJn6++HtsPxmTkkadFbuhe3uQfJ8HmQwvEr7xbxBd2rcJB6XOJg7nWAn/ymC5A==}
     dependencies:
-      '@vue/runtime-core': 3.2.47
-      '@vue/shared': 3.2.47
-      csstype: 2.6.21
+      '@vue/reactivity': 3.3.2
+      '@vue/shared': 3.3.2
 
-  /@vue/server-renderer@3.2.47(vue@3.2.47):
-    resolution: {integrity: sha512-dN9gc1i8EvmP9RCzvneONXsKfBRgqFeFZLurmHOveL7oH6HiFXJw5OGu294n1nHc/HMgTy6LulU/tv5/A7f/LA==}
+  /@vue/runtime-dom@3.3.2:
+    resolution: {integrity: sha512-+drStsJT+0mtgHdarT7cXZReCcTFfm6ptxMrz0kAW5hms6UNBd8Q1pi4JKlncAhu+Ld/TevsSp7pqAZxBBoGng==}
+    dependencies:
+      '@vue/runtime-core': 3.3.2
+      '@vue/shared': 3.3.2
+      csstype: 3.1.2
+
+  /@vue/server-renderer@3.3.2(vue@3.3.2):
+    resolution: {integrity: sha512-QCwh6OGwJg6GDLE0fbQhRTR6tnU+XDJ1iCsTYHXBiezCXAhqMygFRij7BiLF4ytvvHcg5kX9joX5R5vP85++wg==}
     peerDependencies:
-      vue: 3.2.47
+      vue: 3.3.2
     dependencies:
-      '@vue/compiler-ssr': 3.2.47
-      '@vue/shared': 3.2.47
-      vue: 3.2.47
-
-  /@vue/shared@3.2.47:
-    resolution: {integrity: sha512-BHGyyGN3Q97EZx0taMQ+OLNuZcW3d37ZEVmEAyeoA9ERdGvm9Irc/0Fua8SNyOtV1w6BS4q25wbMzJujO9HIfQ==}
+      '@vue/compiler-ssr': 3.3.2
+      '@vue/shared': 3.3.2
+      vue: 3.3.2
 
   /@vue/shared@3.3.0-beta.3:
     resolution: {integrity: sha512-st1SnB/Bkbb9TsieeI4TRX9TqHYIR5wvIma3ZtEben55EYSWa1q5u2BhTNgABSdH+rv3Xwfrvpwh5PmCw6Y53g==}
     dev: true
 
-  /@vue/test-utils@2.3.2(vue@3.2.47):
+  /@vue/shared@3.3.2:
+    resolution: {integrity: sha512-0rFu3h8JbclbnvvKrs7Fe5FNGV9/5X2rPD7KmOzhLSUAiQH5//Hq437Gv0fR5Mev3u/nbtvmLl8XgwCU20/ZfQ==}
+
+  /@vue/test-utils@2.3.2(vue@3.3.2):
     resolution: {integrity: sha512-hJnVaYhbrIm0yBS0+e1Y0Sj85cMyAi+PAbK4JHqMRUZ6S622Goa+G7QzkRSyvCteG8wop7tipuEbHoZo26wsSA==}
     peerDependencies:
       vue: ^3.0.1
     dependencies:
       js-beautify: 1.14.6
-      vue: 3.2.47
+      vue: 3.3.2
     optionalDependencies:
-      '@vue/compiler-dom': 3.2.47
-      '@vue/server-renderer': 3.2.47(vue@3.2.47)
+      '@vue/compiler-dom': 3.3.2
+      '@vue/server-renderer': 3.3.2(vue@3.3.2)
     dev: true
 
-  /@vue/tsconfig@0.3.2:
-    resolution: {integrity: sha512-jWzZbGyrZAEbHYGn0kPzJ+MMtIkIxb0+hL5+RghBowyOxMRs9jMdp5XvpXz3wgCzjRZiUucy29042HBe9cxoYA==}
+  /@vue/tsconfig@0.4.0:
+    resolution: {integrity: sha512-CPuIReonid9+zOG/CGTT05FXrPYATEqoDGNrEaqS4hwcw5BUNM2FguC0mOwJD4Jr16UpRVl9N0pY3P+srIbqmg==}
     dev: true
 
   /abab@2.0.6:
@@ -5446,11 +5437,11 @@ packages:
       rrweb-cssom: 0.6.0
     dev: true
 
-  /csstype@2.6.21:
-    resolution: {integrity: sha512-Z1PhmomIfypOpoMjRQB70jfvy/wxT50qW08YXO5lMIJkrdq4yOTR+AW7FqutScmB9NkLwxo+jU+kZLbofZZq/w==}
+  /csstype@3.1.2:
+    resolution: {integrity: sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==}
 
-  /cypress@12.11.0:
-    resolution: {integrity: sha512-TJE+CCWI26Hwr5Msb9GpQhFLubdYooW0fmlPwTsfiyxmngqc7+SZGLPeIkj2dTSSZSEtpQVzOzvcnzH0o8G7Vw==}
+  /cypress@12.12.0:
+    resolution: {integrity: sha512-UU5wFQ7SMVCR/hyKok/KmzG6fpZgBHHfrXcHzDmPHWrT+UUetxFzQgt7cxCszlwfozckzwkd22dxMwl/vNkWRw==}
     engines: {node: ^14.0.0 || ^16.0.0 || >=18.0.0}
     hasBin: true
     requiresBuild: true
@@ -6472,17 +6463,11 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /magic-string@0.25.9:
-    resolution: {integrity: sha512-RmF0AsMzgt25qzqqLc1+MbHmhdx0ojF2Fvs4XnOqz2ZOBXzzkEwc/dJQZCYHAn7v1jbVOjAZfK8msRn4BxO4VQ==}
-    dependencies:
-      sourcemap-codec: 1.4.8
-
   /magic-string@0.30.0:
     resolution: {integrity: sha512-LA+31JYDJLs82r2ScLrlz1GjSgu66ZV518eyWT+S8VhyQn/JL0u9MeBOvQMGYiPk1DBiSN9DDMOcXvigJZaViQ==}
     engines: {node: '>=12'}
     dependencies:
       '@jridgewell/sourcemap-codec': 1.4.14
-    dev: true
 
   /map-stream@0.1.0:
     resolution: {integrity: sha512-CkYQrPYZfWnu/DAmVCpTSX/xHpKZ80eKh2lAkyA6AJTef6bW+6JpbQZN5rofum7da+SyN1bi5ctTm+lTfcCW3g==}
@@ -6566,16 +6551,10 @@ packages:
     resolution: {integrity: sha512-YVE1mIJ4VpUMqZObFndk9CJu6DBJR/GB13p3tXuNbwD4XExaI5EOuRl6BHeIDxIqXZVxSfAC+y6U1Z/IxCfKUg==}
     dev: true
 
-  /nanoid@3.3.4:
-    resolution: {integrity: sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==}
-    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
-    hasBin: true
-
   /nanoid@3.3.6:
     resolution: {integrity: sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
-    dev: true
 
   /nice-try@1.0.5:
     resolution: {integrity: sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==}
@@ -6760,8 +6739,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /pinia@2.0.35(typescript@5.0.4)(vue@3.2.47):
-    resolution: {integrity: sha512-P1IKKQWhxGXiiZ3atOaNI75bYlFUbRxtJdhPLX059Z7+b9Z04rnTZdSY8Aph1LA+/4QEMAYHsTQ638Wfe+6K5g==}
+  /pinia@2.0.36(typescript@5.0.4)(vue@3.3.2):
+    resolution: {integrity: sha512-4UKApwjlmJH+VuHKgA+zQMddcCb3ezYnyewQ9NVrsDqZ/j9dMv5+rh+1r48whKNdpFkZAWVxhBp5ewYaYX9JcQ==}
     peerDependencies:
       '@vue/composition-api': ^1.4.0
       typescript: '>=4.4.4'
@@ -6774,8 +6753,8 @@ packages:
     dependencies:
       '@vue/devtools-api': 6.5.0
       typescript: 5.0.4
-      vue: 3.2.47
-      vue-demi: 0.13.11(vue@3.2.47)
+      vue: 3.3.2
+      vue-demi: 0.13.11(vue@3.3.2)
     dev: false
 
   /pkg-types@1.0.2:
@@ -6792,14 +6771,6 @@ packages:
     hasBin: true
     dev: true
 
-  /postcss@8.4.21:
-    resolution: {integrity: sha512-tP7u/Sn/dVxK2NnruI4H9BG+x+Wxz6oeZ1cJ8P6G/PZY0IKk4k/63TDsQf2kQq3+qoJeLm2kIBUNlZe3zgb4Zg==}
-    engines: {node: ^10 || ^12 || >=14}
-    dependencies:
-      nanoid: 3.3.4
-      picocolors: 1.0.0
-      source-map-js: 1.0.2
-
   /postcss@8.4.23:
     resolution: {integrity: sha512-bQ3qMcpF6A/YjR55xtoTr0jGOlnPOKAIMdOWiv0EIT6HVPEaJiJB4NLljSbiHoC2RX7DN5Uvjtpbg1NPdwv1oA==}
     engines: {node: ^10 || ^12 || >=14}
@@ -6807,7 +6778,6 @@ packages:
       nanoid: 3.3.6
       picocolors: 1.0.0
       source-map-js: 1.0.2
-    dev: true
 
   /pretty-bytes@5.6.0:
     resolution: {integrity: sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg==}
@@ -7066,14 +7036,6 @@ packages:
     resolution: {integrity: sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==}
     engines: {node: '>=0.10.0'}
 
-  /source-map@0.6.1:
-    resolution: {integrity: sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==}
-    engines: {node: '>=0.10.0'}
-
-  /sourcemap-codec@1.4.8:
-    resolution: {integrity: sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==}
-    deprecated: Please use @jridgewell/sourcemap-codec instead
-
   /spdx-correct@3.1.1:
     resolution: {integrity: sha512-cOYcUWwhCuHCXi49RhFRCyJEK3iPj1Ziz9DpViV3tbZOwXD49QzIN3MpOLJNxh2qwq2lJJZaKMVw9qNi4jTC0w==}
     dependencies:
@@ -7283,7 +7245,7 @@ packages:
     engines: {node: '>=0.8'}
     dependencies:
       psl: 1.9.0
-      punycode: 2.1.1
+      punycode: 2.3.0
     dev: true
 
   /tough-cookie@4.1.2:
@@ -7409,7 +7371,7 @@ packages:
       mlly: 1.2.0
       pathe: 1.1.0
       picocolors: 1.0.0
-      vite: 4.3.4(@types/node@18.16.3)
+      vite: 4.3.5(@types/node@18.16.3)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -7420,8 +7382,8 @@ packages:
       - terser
     dev: true
 
-  /vite@4.3.4(@types/node@18.16.3):
-    resolution: {integrity: sha512-f90aqGBoxSFxWph2b39ae2uHAxm5jFBBdnfueNxZAT1FTpM13ccFQExCaKbR2xFW5atowjleRniQ7onjJ22QEg==}
+  /vite@4.3.5(@types/node@18.16.3):
+    resolution: {integrity: sha512-0gEnL9wiRFxgz40o/i/eTBwm+NEbpUeTWhzKrZDSdKm6nplj+z4lKz8ANDgildxHm47Vg8EUia0aicKbawUVVA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -7446,6 +7408,39 @@ packages:
         optional: true
     dependencies:
       '@types/node': 18.16.3
+      esbuild: 0.17.18
+      postcss: 8.4.23
+      rollup: 3.21.5
+    optionalDependencies:
+      fsevents: 2.3.2
+    dev: true
+
+  /vite@4.3.5(@types/node@18.16.8):
+    resolution: {integrity: sha512-0gEnL9wiRFxgz40o/i/eTBwm+NEbpUeTWhzKrZDSdKm6nplj+z4lKz8ANDgildxHm47Vg8EUia0aicKbawUVVA==}
+    engines: {node: ^14.18.0 || >=16.0.0}
+    hasBin: true
+    peerDependencies:
+      '@types/node': '>= 14'
+      less: '*'
+      sass: '*'
+      stylus: '*'
+      sugarss: '*'
+      terser: ^5.4.0
+    peerDependenciesMeta:
+      '@types/node':
+        optional: true
+      less:
+        optional: true
+      sass:
+        optional: true
+      stylus:
+        optional: true
+      sugarss:
+        optional: true
+      terser:
+        optional: true
+    dependencies:
+      '@types/node': 18.16.8
       esbuild: 0.17.18
       postcss: 8.4.23
       rollup: 3.21.5
@@ -7507,7 +7502,7 @@ packages:
       strip-literal: 1.0.1
       tinybench: 2.5.0
       tinypool: 0.5.0
-      vite: 4.3.4(@types/node@18.16.3)
+      vite: 4.3.5(@types/node@18.16.3)
       vite-node: 0.31.0(@types/node@18.16.3)
       why-is-node-running: 2.2.2
     transitivePeerDependencies:
@@ -7519,7 +7514,7 @@ packages:
       - terser
     dev: true
 
-  /vue-demi@0.13.11(vue@3.2.47):
+  /vue-demi@0.13.11(vue@3.3.2):
     resolution: {integrity: sha512-IR8HoEEGM65YY3ZJYAjMlKygDQn25D5ajNFNoKh9RSDMQtlzCxtfQjdQgv9jjK+m3377SsJXY8ysq8kLCZL25A==}
     engines: {node: '>=12'}
     hasBin: true
@@ -7531,16 +7526,16 @@ packages:
       '@vue/composition-api':
         optional: true
     dependencies:
-      vue: 3.2.47
+      vue: 3.3.2
     dev: false
 
-  /vue-router@4.1.6(vue@3.2.47):
-    resolution: {integrity: sha512-DYWYwsG6xNPmLq/FmZn8Ip+qrhFEzA14EI12MsMgVxvHFDYvlr4NXpVF5hrRH1wVcDP8fGi5F4rxuJSl8/r+EQ==}
+  /vue-router@4.2.0(vue@3.3.2):
+    resolution: {integrity: sha512-c+usESa6ZoWsm4PPdzRSyenp5A4dsUtnDJnrI03fY1IpIihA9TK3x5ffgkFDpjhLJZewsXoKURapNLFdZjuqTg==}
     peerDependencies:
       vue: ^3.2.0
     dependencies:
-      '@vue/devtools-api': 6.4.5
-      vue: 3.2.47
+      '@vue/devtools-api': 6.5.0
+      vue: 3.3.2
     dev: false
 
   /vue-template-compiler@2.7.14:
@@ -7562,14 +7557,14 @@ packages:
       typescript: 5.0.4
     dev: true
 
-  /vue@3.2.47:
-    resolution: {integrity: sha512-60188y/9Dc9WVrAZeUVSDxRQOZ+z+y5nO2ts9jWXSTkMvayiWxCWOWtBQoYjLeccfXkiiPZWAHcV+WTPhkqJHQ==}
+  /vue@3.3.2:
+    resolution: {integrity: sha512-98hJcAhyDwZoOo2flAQBSPVYG/o0HA9ivIy2ktHshjE+6/q8IMQ+kvDKQzOZTFPxvnNMcGM+zS2A00xeZMA7tA==}
     dependencies:
-      '@vue/compiler-dom': 3.2.47
-      '@vue/compiler-sfc': 3.2.47
-      '@vue/runtime-dom': 3.2.47
-      '@vue/server-renderer': 3.2.47(vue@3.2.47)
-      '@vue/shared': 3.2.47
+      '@vue/compiler-dom': 3.3.2
+      '@vue/compiler-sfc': 3.3.2
+      '@vue/runtime-dom': 3.3.2
+      '@vue/server-renderer': 3.3.2(vue@3.3.2)
+      '@vue/shared': 3.3.2
 
   /w3c-xmlserializer@4.0.0:
     resolution: {integrity: sha512-d+BFHzbiCx6zGfz0HyQ6Rg69w9k19nviJspaj4yNscGjrHu94sVP+aRm75yEbCh+r2/yR+7q6hux9LVtbuTGBw==}
