@@ -1,0 +1,24 @@
+{
+  "name": "cypress-playwright",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:e2e": "playwright test",
+    "test:e2e:dev": "start-server-and-test 'vite dev --port 4173' http://localhost:4173 'cypress open --e2e'",
+    "test:unit": "cypress run --component",
+    "test:unit:dev": "cypress open --component"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.35.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "cypress": "^12.14.0",
+    "start-server-and-test": "^2.0.0",
+    "vite": "^4.3.9"
+  }
+}

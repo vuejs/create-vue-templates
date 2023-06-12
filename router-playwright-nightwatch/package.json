@@ -1,0 +1,28 @@
+{
+  "name": "router-playwright-nightwatch",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:e2e": "playwright test",
+    "test:unit": "nightwatch src/components/**/__tests__/*"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@nightwatch/vue": "0.4.5",
+    "@playwright/test": "^1.35.0",
+    "@types/nightwatch": "^2.3.23",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "chromedriver": "^114.0.2",
+    "geckodriver": "^3.2.0",
+    "nightwatch": "^2.6.21",
+    "ts-node": "^10.9.1",
+    "vite": "^4.3.9",
+    "wait-on": "^7.0.1"
+  }
+}

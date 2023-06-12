@@ -9,11 +9,11 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "vue": "^3.3.2"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@playwright/test": "^1.33.0",
+    "@playwright/test": "^1.35.0",
     "@vitejs/plugin-vue": "^4.2.3",
-    "vite": "^4.3.5"
+    "vite": "^4.3.9"
   }
 }

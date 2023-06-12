@@ -49,3 +49,26 @@ But it's still recommended to test the production build with `test:e2e` before d
 pnpm build
 pnpm test:e2e
 ```
+
+### Run End-to-End Tests with [Nightwatch](https://nightwatchjs.org/)
+
+```sh
+# When using CI, the project must be built first.
+pnpm build
+
+# Runs the end-to-end tests
+pnpm test:e2e
+# Runs the tests only on Chrome
+pnpm test:e2e --env chrome
+# Runs the tests of a specific file
+pnpm test:e2e tests/e2e/example.js
+# Runs the tests in debug mode
+pnpm test:e2e --debug
+```
+    
+### Run Headed Component Tests with [Nightwatch Component Testing](https://nightwatchjs.org/guide/component-testing/introduction.html)
+  
+```sh
+pnpm test:unit
+pnpm test:unit -- --headless # for headless testing
+```
