@@ -761,12 +761,6 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
@@ -776,36 +770,21 @@ importers:
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   jsx-playwright:
     dependencies:
@@ -1587,12 +1566,6 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
@@ -1602,36 +1575,21 @@ importers:
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   jsx-router-playwright:
     dependencies:
@@ -1993,12 +1951,6 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
@@ -2008,36 +1960,21 @@ importers:
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   jsx-vitest:
     dependencies:
@@ -2310,12 +2247,6 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
@@ -2325,36 +2256,21 @@ importers:
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   nightwatch:
     dependencies:
@@ -2866,48 +2782,27 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   playwright:
     dependencies:
@@ -3626,48 +3521,27 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   router-playwright:
     dependencies:
@@ -4002,48 +3876,27 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript:
     dependencies:
@@ -5235,18 +5088,12 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -5262,30 +5109,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -5298,9 +5133,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-jsx-playwright:
     dependencies:
@@ -6481,18 +6313,12 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -6508,30 +6334,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -6544,9 +6358,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-jsx-router-playwright:
     dependencies:
@@ -7091,18 +6902,12 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -7118,30 +6923,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -7154,9 +6947,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-jsx-vitest:
     dependencies:
@@ -7576,18 +7366,12 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -7603,30 +7387,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -7639,9 +7411,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-nightwatch:
     dependencies:
@@ -8444,18 +8213,12 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -8468,30 +8231,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -8504,9 +8255,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-playwright:
     dependencies:
@@ -9624,18 +9372,12 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -9648,30 +9390,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -9684,9 +9414,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-router-playwright:
     dependencies:
@@ -10204,18 +9931,12 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vue@3.3.4)
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -10228,30 +9949,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -10264,9 +9973,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   typescript-vitest:
     dependencies:
@@ -10665,18 +10371,12 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
       '@tsconfig/node18':
         specifier: ^2.0.1
         version: 2.0.1
       '@types/jsdom':
         specifier: ^21.1.1
         version: 21.1.1
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@types/node':
         specifier: ^18.16.17
         version: 18.16.17
@@ -10689,30 +10389,18 @@ importers:
       '@vue/tsconfig':
         specifier: ^0.4.0
         version: 0.4.0
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       typescript:
         specifier: ~5.0.4
         version: 5.0.4
@@ -10725,9 +10413,6 @@ importers:
       vue-tsc:
         specifier: ^1.6.5
         version: 1.6.5(typescript@5.0.4)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
   vitest:
     dependencies:
@@ -10979,48 +10664,27 @@ importers:
         specifier: ^3.3.4
         version: 3.3.4
     devDependencies:
-      '@nightwatch/vue':
-        specifier: 0.4.5
-        version: 0.4.5(@types/node@18.16.17)(vue@3.3.4)
-      '@types/nightwatch':
-        specifier: ^2.3.23
-        version: 2.3.23
       '@vitejs/plugin-vue':
         specifier: ^4.2.3
         version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/test-utils':
         specifier: ^2.3.2
         version: 2.3.2(vue@3.3.4)
-      chromedriver:
-        specifier: ^114.0.2
-        version: 114.0.2
       cypress:
         specifier: ^12.14.0
         version: 12.14.0
-      geckodriver:
-        specifier: ^3.2.0
-        version: 3.2.0
       jsdom:
         specifier: ^22.1.0
         version: 22.1.0
-      nightwatch:
-        specifier: ^2.6.21
-        version: 2.6.21(chromedriver@114.0.2)(geckodriver@3.2.0)
       start-server-and-test:
         specifier: ^2.0.0
         version: 2.0.0
-      ts-node:
-        specifier: ^10.9.1
-        version: 10.9.1(@types/node@18.16.17)(typescript@5.0.4)
       vite:
         specifier: ^4.3.9
         version: 4.3.9(@types/node@18.16.17)
       vitest:
         specifier: ^0.32.0
         version: 0.32.0(jsdom@22.1.0)
-      wait-on:
-        specifier: ^7.0.1
-        version: 7.0.1(debug@4.3.4)
 
 packages:
 
