@@ -16,15 +16,15 @@
   },
   "devDependencies": {
     "@nightwatch/vue": "0.4.5",
-    "@types/nightwatch": "^2.3.23",
+    "@types/nightwatch": "^2.3.24",
     "@vitejs/plugin-vue": "^4.2.3",
-    "chromedriver": "^114.0.2",
-    "cypress": "^12.14.0",
-    "geckodriver": "^3.2.0",
-    "nightwatch": "^2.6.21",
+    "chromedriver": "^114.0.3",
+    "cypress": "^12.17.2",
+    "geckodriver": "^4.0.5",
+    "nightwatch": "^3.0.1",
     "start-server-and-test": "^2.0.0",
     "ts-node": "^10.9.1",
-    "vite": "^4.3.9",
+    "vite": "^4.4.6",
     "wait-on": "^7.0.1"
   }
 }
