@@ -15,19 +15,19 @@
   },
   "devDependencies": {
     "@nightwatch/vue": "0.4.5",
-    "@types/nightwatch": "^2.3.24",
-    "@vitejs/plugin-vue": "^4.2.3",
-    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "@types/nightwatch": "^2.3.25",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
     "@vue/test-utils": "^2.4.1",
-    "chromedriver": "^114.0.3",
-    "cypress": "^12.17.2",
-    "geckodriver": "^4.0.5",
+    "chromedriver": "^115.0.1",
+    "cypress": "^12.17.4",
+    "geckodriver": "^4.2.0",
     "jsdom": "^22.1.0",
-    "nightwatch": "^3.0.1",
+    "nightwatch": "^3.1.2",
     "start-server-and-test": "^2.0.0",
     "ts-node": "^10.9.1",
-    "vite": "^4.4.6",
-    "vitest": "^0.33.0",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.2",
     "wait-on": "^7.0.1"
   }
 }

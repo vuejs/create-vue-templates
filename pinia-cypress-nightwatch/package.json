@@ -12,20 +12,20 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
-    "pinia": "^2.1.4",
+    "pinia": "^2.1.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {
     "@nightwatch/vue": "0.4.5",
-    "@types/nightwatch": "^2.3.24",
-    "@vitejs/plugin-vue": "^4.2.3",
-    "chromedriver": "^114.0.3",
-    "cypress": "^12.17.2",
-    "geckodriver": "^4.0.5",
-    "nightwatch": "^3.0.1",
+    "@types/nightwatch": "^2.3.25",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "chromedriver": "^115.0.1",
+    "cypress": "^12.17.4",
+    "geckodriver": "^4.2.0",
+    "nightwatch": "^3.1.2",
     "start-server-and-test": "^2.0.0",
     "ts-node": "^10.9.1",
-    "vite": "^4.4.6",
+    "vite": "^4.4.9",
     "wait-on": "^7.0.1"
   }
 }

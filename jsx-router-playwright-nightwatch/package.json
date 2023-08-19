@@ -15,15 +15,15 @@
   },
   "devDependencies": {
     "@nightwatch/vue": "0.4.5",
-    "@playwright/test": "^1.36.1",
-    "@types/nightwatch": "^2.3.24",
-    "@vitejs/plugin-vue": "^4.2.3",
-    "@vitejs/plugin-vue-jsx": "^3.0.1",
-    "chromedriver": "^114.0.3",
-    "geckodriver": "^4.0.5",
-    "nightwatch": "^3.0.1",
+    "@playwright/test": "^1.37.0",
+    "@types/nightwatch": "^2.3.25",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "chromedriver": "^115.0.1",
+    "geckodriver": "^4.2.0",
+    "nightwatch": "^3.1.2",
     "ts-node": "^10.9.1",
-    "vite": "^4.4.6",
+    "vite": "^4.4.9",
     "wait-on": "^7.0.1"
   }
 }
