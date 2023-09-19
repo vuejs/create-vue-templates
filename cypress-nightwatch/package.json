@@ -18,7 +18,7 @@
     "@nightwatch/vue": "0.4.5",
     "@types/nightwatch": "^2.3.25",
     "@vitejs/plugin-vue": "^4.3.4",
-    "chromedriver": "^116.0.0",
+    "chromedriver": "^117.0.1",
     "cypress": "^13.2.0",
     "geckodriver": "^4.2.1",
     "nightwatch": "^3.1.3",

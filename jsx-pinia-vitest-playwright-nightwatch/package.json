@@ -20,7 +20,7 @@
     "@vitejs/plugin-vue": "^4.3.4",
     "@vitejs/plugin-vue-jsx": "^3.0.2",
     "@vue/test-utils": "^2.4.1",
-    "chromedriver": "^116.0.0",
+    "chromedriver": "^117.0.1",
     "geckodriver": "^4.2.1",
     "jsdom": "^22.1.0",
     "nightwatch": "^3.1.3",
