@@ -12,22 +12,22 @@
   },
   "dependencies": {
     "vue": "^3.3.4",
-    "vue-router": "^4.2.4"
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@nightwatch/vue": "0.4.5",
-    "@types/nightwatch": "^2.3.25",
-    "@vitejs/plugin-vue": "^4.3.4",
+    "@types/nightwatch": "^2.3.26",
+    "@vitejs/plugin-vue": "^4.4.0",
     "@vue/test-utils": "^2.4.1",
-    "chromedriver": "^117.0.1",
-    "cypress": "^13.2.0",
+    "chromedriver": "^118.0.1",
+    "cypress": "^13.3.1",
     "geckodriver": "^4.2.1",
     "jsdom": "^22.1.0",
-    "nightwatch": "^3.1.3",
-    "start-server-and-test": "^2.0.0",
+    "nightwatch": "^3.2.1",
+    "start-server-and-test": "^2.0.1",
     "ts-node": "^10.9.1",
-    "vite": "^4.4.9",
-    "vitest": "^0.34.4",
+    "vite": "^4.4.11",
+    "vitest": "^0.34.6",
     "wait-on": "^7.0.1"
   }
 }
