@@ -2,6 +2,7 @@
   "name": "router-cypress",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,13 +13,13 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
-    "vue": "^3.3.4",
+    "vue": "^3.3.10",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.4.0",
-    "cypress": "^13.3.1",
-    "start-server-and-test": "^2.0.1",
-    "vite": "^4.4.11"
+    "@vitejs/plugin-vue": "^4.5.1",
+    "cypress": "^13.6.1",
+    "start-server-and-test": "^2.0.3",
+    "vite": "^5.0.5"
   }
 }

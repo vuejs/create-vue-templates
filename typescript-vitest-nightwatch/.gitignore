@@ -27,5 +27,7 @@ coverage
 *.sln
 *.sw?
 
+*.tsbuildinfo
+
 logs/
 tests_output/

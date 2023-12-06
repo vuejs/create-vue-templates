@@ -3,14 +3,16 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "commonjs",
+    "moduleResolution": "node",
     "composite": true,
+    "noEmit": true,
     "rootDir": "../",
     "lib": ["ESNext", "dom"],
     "types": ["nightwatch"]
   },
   "include": ["../node_modules/@nightwatch/**/*", "../src/components/**/*", "../tests/e2e/**/*"],
   "ts-node": {
-    "files": true
+    "transpileOnly": true
   },
   "files": ["nightwatch.d.ts"]
 }
