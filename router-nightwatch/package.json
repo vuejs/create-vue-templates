@@ -2,7 +2,7 @@
   "name": "router-nightwatch",
   "version": "0.0.0",
   "private": true,
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,19 +11,19 @@
     "test:unit": "nightwatch src/**/__tests__/*"
   },
   "dependencies": {
-    "vue": "^3.3.10",
+    "vue": "^3.3.11",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@nightwatch/vue": "^0.4.5",
     "@types/nightwatch": "^2.3.30",
-    "@vitejs/plugin-vue": "^4.5.1",
+    "@vitejs/plugin-vue": "^4.5.2",
     "@vue/test-utils": "^2.4.3",
-    "chromedriver": "^119.0.1",
-    "geckodriver": "^4.2.1",
-    "nightwatch": "^3.3.2",
-    "ts-node": "^10.9.1",
-    "vite": "^5.0.5",
+    "chromedriver": "^120.0.0",
+    "geckodriver": "^4.3.0",
+    "nightwatch": "^3.3.5",
+    "ts-node": "^10.9.2",
+    "vite": "^5.0.10",
     "vite-plugin-nightwatch": "^0.4.5"
   }
 }
