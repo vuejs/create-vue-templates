@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "pinia": "^2.1.7",
-    "vue": "^3.3.11"
+    "vue": "^3.4.15"
   },
   "devDependencies": {
-    "@playwright/test": "^1.40.1",
-    "@vitejs/plugin-vue": "^4.5.2",
-    "vite": "^5.0.10"
+    "@playwright/test": "^1.41.1",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
   }
 }
