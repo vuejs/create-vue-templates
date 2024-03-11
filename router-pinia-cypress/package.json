@@ -14,13 +14,13 @@
   },
   "dependencies": {
     "pinia": "^2.1.7",
-    "vue": "^3.4.15",
-    "vue-router": "^4.2.5"
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.3",
-    "cypress": "^13.6.3",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "cypress": "^13.6.6",
     "start-server-and-test": "^2.0.3",
-    "vite": "^5.0.11"
+    "vite": "^5.1.5"
   }
 }
