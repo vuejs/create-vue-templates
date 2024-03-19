@@ -17,12 +17,12 @@
   "devDependencies": {
     "@nightwatch/vue": "^3.1.0",
     "@vitejs/plugin-vue": "^5.0.4",
-    "@vue/test-utils": "^2.4.4",
-    "chromedriver": "^122.0.4",
+    "@vue/test-utils": "^2.4.5",
+    "chromedriver": "^122.0.6",
     "geckodriver": "^4.3.3",
-    "nightwatch": "^3.4.1",
+    "nightwatch": "^3.5.0",
     "ts-node": "^10.9.2",
-    "vite": "^5.1.5",
+    "vite": "^5.1.6",
     "vite-plugin-nightwatch": "^0.4.6"
   }
 }
