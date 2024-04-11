@@ -19,12 +19,12 @@
     "@vitejs/plugin-vue": "^5.0.4",
     "@vitejs/plugin-vue-jsx": "^3.1.0",
     "@vue/test-utils": "^2.4.5",
-    "chromedriver": "^122.0.6",
+    "chromedriver": "^123.0.1",
     "geckodriver": "^4.3.3",
     "jsdom": "^24.0.0",
-    "nightwatch": "^3.5.0",
+    "nightwatch": "^3.6.0",
     "ts-node": "^10.9.2",
-    "vite": "^5.1.6",
+    "vite": "^5.2.8",
     "vite-plugin-nightwatch": "^0.4.6",
     "vitest": "^1.4.0"
   }
