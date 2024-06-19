@@ -11,17 +11,17 @@
     "test:unit": "nightwatch src/**/__tests__/*"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.4.29"
   },
   "devDependencies": {
-    "@nightwatch/vue": "^3.1.0",
-    "@vitejs/plugin-vue": "^5.0.4",
-    "@vue/test-utils": "^2.4.5",
-    "chromedriver": "^123.0.1",
-    "geckodriver": "^4.3.3",
-    "nightwatch": "^3.6.0",
+    "@nightwatch/vue": "^3.1.1",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vue/test-utils": "^2.4.6",
+    "chromedriver": "^126.0.2",
+    "geckodriver": "^4.4.1",
+    "nightwatch": "^3.6.3",
     "ts-node": "^10.9.2",
-    "vite": "^5.2.8",
+    "vite": "^5.3.1",
     "vite-plugin-nightwatch": "^0.4.6"
   }
 }

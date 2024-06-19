@@ -10,12 +10,12 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
   },
   "devDependencies": {
-    "@playwright/test": "^1.43.0",
-    "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^5.2.8"
+    "@playwright/test": "^1.44.1",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
   }
 }
