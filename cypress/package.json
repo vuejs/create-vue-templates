@@ -13,12 +13,12 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "vue": "^3.5.11"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.5",
-    "cypress": "^13.12.0",
-    "start-server-and-test": "^2.0.4",
-    "vite": "^5.3.1"
+    "@vitejs/plugin-vue": "^5.1.4",
+    "cypress": "^13.15.0",
+    "start-server-and-test": "^2.0.8",
+    "vite": "^5.4.8"
   }
 }

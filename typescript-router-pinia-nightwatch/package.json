@@ -13,25 +13,25 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
-    "pinia": "^2.1.7",
-    "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
+    "pinia": "^2.2.4",
+    "vue": "^3.5.11",
+    "vue-router": "^4.4.5"
   },
   "devDependencies": {
-    "@nightwatch/vue": "^3.1.1",
+    "@nightwatch/vue": "^3.1.2",
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.14.5",
-    "@vitejs/plugin-vue": "^5.0.5",
+    "@types/node": "^20.16.11",
+    "@vitejs/plugin-vue": "^5.1.4",
     "@vue/test-utils": "^2.4.6",
     "@vue/tsconfig": "^0.5.1",
-    "chromedriver": "^126.0.2",
-    "geckodriver": "^4.4.1",
-    "nightwatch": "^3.6.3",
-    "npm-run-all2": "^6.2.0",
+    "chromedriver": "^129.0.4",
+    "geckodriver": "^4.5.1",
+    "nightwatch": "^3.8.0",
+    "npm-run-all2": "^6.2.3",
     "ts-node": "^10.9.2",
-    "typescript": "~5.4.0",
-    "vite": "^5.3.1",
+    "typescript": "~5.5.4",
+    "vite": "^5.4.8",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vue-tsc": "^2.0.21"
+    "vue-tsc": "^2.1.6"
   }
 }
