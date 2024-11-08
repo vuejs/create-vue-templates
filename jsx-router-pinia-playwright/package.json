@@ -18,6 +18,7 @@
     "@playwright/test": "^1.48.2",
     "@vitejs/plugin-vue": "^5.1.4",
     "@vitejs/plugin-vue-jsx": "^4.0.1",
-    "vite": "^5.4.10"
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4"
   }
 }
