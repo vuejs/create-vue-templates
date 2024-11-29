@@ -12,23 +12,23 @@
     "test:unit": "cypress run --component",
     "test:unit:dev": "cypress open --component",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build --force"
+    "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "vue": "^3.5.12"
+    "vue": "^3.5.13"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
-    "@types/node": "^22.9.0",
-    "@vitejs/plugin-vue": "^5.1.4",
-    "@vitejs/plugin-vue-jsx": "^4.0.1",
-    "@vue/tsconfig": "^0.5.1",
-    "cypress": "^13.15.1",
+    "@types/node": "^22.9.3",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vitejs/plugin-vue-jsx": "^4.1.1",
+    "@vue/tsconfig": "^0.7.0",
+    "cypress": "^13.16.0",
     "npm-run-all2": "^7.0.1",
     "start-server-and-test": "^2.0.8",
     "typescript": "~5.6.3",
-    "vite": "^5.4.10",
-    "vite-plugin-vue-devtools": "^7.5.4",
+    "vite": "^6.0.1",
+    "vite-plugin-vue-devtools": "^7.6.5",
     "vue-tsc": "^2.1.10"
   }
 }
