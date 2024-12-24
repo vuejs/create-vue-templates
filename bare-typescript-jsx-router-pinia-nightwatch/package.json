@@ -1,0 +1,39 @@
+{
+  "name": "bare-typescript-jsx-router-pinia-nightwatch",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "run-p type-check \"build-only {@}\" --",
+    "preview": "vite preview",
+    "test:e2e": "nightwatch tests/e2e/*",
+    "test:unit": "nightwatch src/**/__tests__/*",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --build"
+  },
+  "dependencies": {
+    "pinia": "^2.3.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@nightwatch/vue": "^3.1.2",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.10.2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vitejs/plugin-vue-jsx": "^4.1.1",
+    "@vue/test-utils": "^2.4.6",
+    "@vue/tsconfig": "^0.7.0",
+    "chromedriver": "^131.0.4",
+    "geckodriver": "^5.0.0",
+    "nightwatch": "^3.9.0",
+    "npm-run-all2": "^7.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.6.3",
+    "vite": "^6.0.5",
+    "vite-plugin-nightwatch": "^0.4.6",
+    "vite-plugin-vue-devtools": "^7.6.8",
+    "vue-tsc": "^2.1.10"
+  }
+}

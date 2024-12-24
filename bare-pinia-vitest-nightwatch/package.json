@@ -1,0 +1,31 @@
+{
+  "name": "bare-pinia-vitest-nightwatch",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "test:e2e": "nightwatch tests/e2e/*"
+  },
+  "dependencies": {
+    "pinia": "^2.3.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@nightwatch/vue": "^3.1.2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vue/test-utils": "^2.4.6",
+    "chromedriver": "^131.0.4",
+    "geckodriver": "^5.0.0",
+    "jsdom": "^25.0.1",
+    "nightwatch": "^3.9.0",
+    "ts-node": "^10.9.2",
+    "vite": "^6.0.5",
+    "vite-plugin-nightwatch": "^0.4.6",
+    "vite-plugin-vue-devtools": "^7.6.8",
+    "vitest": "^2.1.8"
+  }
+}
