@@ -11,21 +11,21 @@
     "test:e2e": "nightwatch tests/e2e/*"
   },
   "dependencies": {
-    "pinia": "^2.3.0",
+    "pinia": "^2.3.1",
     "vue": "^3.5.13"
   },
   "devDependencies": {
     "@nightwatch/vue": "^3.1.2",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^131.0.4",
+    "chromedriver": "^132.0.0",
     "geckodriver": "^5.0.0",
-    "jsdom": "^25.0.1",
-    "nightwatch": "^3.9.0",
+    "jsdom": "^26.0.0",
+    "nightwatch": "^3.11.0",
     "ts-node": "^10.9.2",
-    "vite": "^6.0.5",
+    "vite": "^6.0.11",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^7.6.8",
-    "vitest": "^2.1.8"
+    "vite-plugin-vue-devtools": "^7.7.0",
+    "vitest": "^3.0.2"
   }
 }
