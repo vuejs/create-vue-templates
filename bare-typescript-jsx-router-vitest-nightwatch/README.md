@@ -18,6 +18,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 pnpm install
+pnpm approve-builds # for pnpm 10+
 ```
 
 ### Compile and Hot-Reload for Development

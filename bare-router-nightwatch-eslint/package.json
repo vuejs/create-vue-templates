@@ -20,7 +20,7 @@
     "@nightwatch/vue": "^3.1.2",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^132.0.0",
+    "chromedriver": "^133.0.0",
     "eslint": "^9.18.0",
     "eslint-plugin-vue": "^9.32.0",
     "geckodriver": "^5.0.0",
@@ -28,6 +28,6 @@
     "ts-node": "^10.9.2",
     "vite": "^6.0.11",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^7.7.0"
+    "vite-plugin-vue-devtools": "^7.7.1"
   }
 }

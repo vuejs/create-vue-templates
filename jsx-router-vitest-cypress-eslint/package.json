@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
+    "prepare": "cypress install",
     "test:e2e": "start-server-and-test preview http://localhost:4173 'cypress run --e2e'",
     "test:e2e:dev": "start-server-and-test 'vite dev --port 4173' http://localhost:4173 'cypress open --e2e'",
     "lint": "eslint . --fix"
@@ -22,14 +23,14 @@
     "@vitejs/plugin-vue-jsx": "^4.1.1",
     "@vitest/eslint-plugin": "1.1.25",
     "@vue/test-utils": "^2.4.6",
-    "cypress": "^14.0.0",
+    "cypress": "^14.0.1",
     "eslint": "^9.18.0",
     "eslint-plugin-cypress": "^4.1.0",
     "eslint-plugin-vue": "^9.32.0",
     "jsdom": "^26.0.0",
     "start-server-and-test": "^2.0.10",
     "vite": "^6.0.11",
-    "vite-plugin-vue-devtools": "^7.7.0",
-    "vitest": "^3.0.2"
+    "vite-plugin-vue-devtools": "^7.7.1",
+    "vitest": "^3.0.5"
   }
 }
