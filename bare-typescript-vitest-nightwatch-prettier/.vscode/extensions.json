@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "vitest.explorer",
+    "browserstackcom.nightwatch",
+    "esbenp.prettier-vscode"
+  ]
+}

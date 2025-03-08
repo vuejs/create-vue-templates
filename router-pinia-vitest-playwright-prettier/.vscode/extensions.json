@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "vitest.explorer",
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode"
+  ]
+}
