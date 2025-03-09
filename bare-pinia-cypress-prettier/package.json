@@ -11,7 +11,8 @@
     "test:e2e": "start-server-and-test preview http://localhost:4173 'cypress run --e2e'",
     "test:e2e:dev": "start-server-and-test 'vite dev --port 4173' http://localhost:4173 'cypress open --e2e'",
     "test:unit": "cypress run --component",
-    "test:unit:dev": "cypress open --component"
+    "test:unit:dev": "cypress open --component",
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^3.0.1",
@@ -24,6 +25,5 @@
     "start-server-and-test": "^2.0.10",
     "vite": "^6.2.1",
     "vite-plugin-vue-devtools": "^7.7.2"
-  },
-  "format": "prettier --write src/"
+  }
 }

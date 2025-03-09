@@ -26,6 +26,5 @@
     "prettier": "3.5.3",
     "vite": "^6.2.1",
     "vite-plugin-vue-devtools": "^7.7.2"
-  },
-  "format": "prettier --write src/"
+  }
 }

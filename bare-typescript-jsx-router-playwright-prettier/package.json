@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test:e2e": "playwright test",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build"
+    "type-check": "vue-tsc --build",
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "vue": "^3.5.13",
@@ -28,6 +29,5 @@
     "vite": "^6.2.1",
     "vite-plugin-vue-devtools": "^7.7.2",
     "vue-tsc": "^2.2.8"
-  },
-  "format": "prettier --write src/"
+  }
 }

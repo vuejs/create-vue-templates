@@ -10,7 +10,8 @@
     "test:e2e": "nightwatch tests/e2e/*",
     "test:unit": "nightwatch src/**/__tests__/*",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build"
+    "type-check": "vue-tsc --build",
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^3.0.1",
@@ -36,6 +37,5 @@
     "vite-plugin-nightwatch": "^0.4.6",
     "vite-plugin-vue-devtools": "^7.7.2",
     "vue-tsc": "^2.2.8"
-  },
-  "format": "prettier --write src/"
+  }
 }

@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^3.0.1",
@@ -25,6 +26,5 @@
     "vite": "^6.2.1",
     "vite-plugin-vue-devtools": "^7.7.2",
     "vitest": "^3.0.8"
-  },
-  "format": "prettier --write src/"
+  }
 }

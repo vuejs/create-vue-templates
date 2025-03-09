@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "test:e2e": "nightwatch tests/e2e/*",
-    "test:unit": "nightwatch src/**/__tests__/*"
+    "test:unit": "nightwatch src/**/__tests__/*",
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^3.0.1",
@@ -26,6 +27,5 @@
     "vite": "^6.2.1",
     "vite-plugin-nightwatch": "^0.4.6",
     "vite-plugin-vue-devtools": "^7.7.2"
-  },
-  "format": "prettier --write src/"
+  }
 }

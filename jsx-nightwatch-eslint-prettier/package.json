@@ -33,6 +33,5 @@
     "vite": "^6.2.1",
     "vite-plugin-nightwatch": "^0.4.6",
     "vite-plugin-vue-devtools": "^7.7.2"
-  },
-  "format": "prettier --write src/"
+  }
 }
