@@ -17,14 +17,14 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.51.0",
-    "@vitejs/plugin-vue": "^5.2.1",
-    "@vitejs/plugin-vue-jsx": "^4.1.1",
+    "@playwright/test": "^1.51.1",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "@vitejs/plugin-vue-jsx": "^4.1.2",
     "@vue/test-utils": "^2.4.6",
     "jsdom": "^26.0.0",
     "prettier": "3.5.3",
-    "vite": "^6.2.1",
+    "vite": "^6.2.4",
     "vite-plugin-vue-devtools": "^7.7.2",
-    "vitest": "^3.0.8"
+    "vitest": "^3.1.1"
   }
 }
