@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.1",
-    "@types/node": "^22.13.14",
+    "@types/node": "^22.14.0",
     "@vitejs/plugin-vue": "^5.2.3",
     "@vue/tsconfig": "^0.7.0",
     "cypress": "^14.2.1",

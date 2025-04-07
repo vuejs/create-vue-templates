@@ -19,7 +19,7 @@
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@vitejs/plugin-vue": "^5.2.3",
-    "@vitest/eslint-plugin": "^1.1.38",
+    "@vitest/eslint-plugin": "^1.1.39",
     "@vue/test-utils": "^2.4.6",
     "cypress": "^14.2.1",
     "eslint": "^9.22.0",
