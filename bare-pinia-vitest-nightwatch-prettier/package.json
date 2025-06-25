@@ -12,22 +12,22 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "pinia": "^3.0.1",
-    "vue": "^3.5.13"
+    "pinia": "^3.0.3",
+    "vue": "^3.5.17"
   },
   "devDependencies": {
     "@nightwatch/vue": "^3.1.2",
-    "@vitejs/plugin-vue": "^5.2.3",
+    "@vitejs/plugin-vue": "^6.0.0",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^135.0.0",
+    "chromedriver": "^137.0.4",
     "geckodriver": "^5.0.0",
-    "jsdom": "^26.0.0",
-    "nightwatch": "^3.12.1",
+    "jsdom": "^26.1.0",
+    "nightwatch": "^3.12.2",
     "prettier": "3.5.3",
     "ts-node": "^10.9.2",
-    "vite": "^6.2.4",
+    "vite": "^7.0.0",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^7.7.2",
-    "vitest": "^3.1.1"
+    "vite-plugin-vue-devtools": "^7.7.7",
+    "vitest": "^3.2.4"
   }
 }
