@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,14 +18,14 @@
   },
   "dependencies": {
     "pinia": "^3.0.3",
-    "vue": "^3.5.17",
+    "vue": "^3.5.18",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.0",
-    "cypress": "^14.5.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "cypress": "^14.5.3",
     "start-server-and-test": "^2.0.12",
-    "vite": "^7.0.0",
-    "vite-plugin-vue-devtools": "^7.7.7"
+    "vite": "^7.0.6",
+    "vite-plugin-vue-devtools": "^8.0.0"
   }
 }
