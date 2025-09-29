@@ -14,21 +14,21 @@
     "test:e2e": "nightwatch tests/e2e/*"
   },
   "dependencies": {
-    "vue": "^3.5.18"
+    "vue": "^3.5.22"
   },
   "devDependencies": {
     "@nightwatch/vue": "^3.1.2",
     "@vitejs/plugin-vue": "^6.0.1",
-    "@vitejs/plugin-vue-jsx": "^5.0.1",
+    "@vitejs/plugin-vue-jsx": "^5.1.1",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^138.0.4",
-    "geckodriver": "^5.0.0",
-    "jsdom": "^26.1.0",
+    "chromedriver": "^140.0.4",
+    "geckodriver": "^6.0.1",
+    "jsdom": "^27.0.0",
     "nightwatch": "^3.12.2",
     "ts-node": "^10.9.2",
-    "vite": "^7.0.6",
+    "vite": "^7.1.7",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^8.0.0",
+    "vite-plugin-vue-devtools": "^8.0.2",
     "vitest": "^3.2.4"
   }
 }

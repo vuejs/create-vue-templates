@@ -18,18 +18,18 @@
   },
   "dependencies": {
     "pinia": "^3.0.3",
-    "vue": "^3.5.18"
+    "vue": "^3.5.22"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
-    "@vitejs/plugin-vue-jsx": "^5.0.1",
+    "@vitejs/plugin-vue-jsx": "^5.1.1",
     "@vue/test-utils": "^2.4.6",
-    "cypress": "^14.5.3",
-    "jsdom": "^26.1.0",
+    "cypress": "^15.3.0",
+    "jsdom": "^27.0.0",
     "prettier": "3.6.2",
-    "start-server-and-test": "^2.0.12",
-    "vite": "^7.0.6",
-    "vite-plugin-vue-devtools": "^8.0.0",
+    "start-server-and-test": "^2.1.2",
+    "vite": "^7.1.7",
+    "vite-plugin-vue-devtools": "^8.0.2",
     "vitest": "^3.2.4"
   }
 }

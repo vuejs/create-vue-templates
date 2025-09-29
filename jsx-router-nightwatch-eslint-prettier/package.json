@@ -16,26 +16,26 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "vue": "^3.5.18",
+    "vue": "^3.5.22",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@eslint/js": "^9.31.0",
+    "@eslint/js": "^9.33.0",
     "@nightwatch/vue": "^3.1.2",
     "@vitejs/plugin-vue": "^6.0.1",
-    "@vitejs/plugin-vue-jsx": "^5.0.1",
+    "@vitejs/plugin-vue-jsx": "^5.1.1",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^138.0.4",
-    "eslint": "^9.31.0",
-    "eslint-plugin-vue": "~10.3.0",
-    "geckodriver": "^5.0.0",
+    "chromedriver": "^140.0.4",
+    "eslint": "^9.33.0",
+    "eslint-plugin-vue": "~10.4.0",
+    "geckodriver": "^6.0.1",
     "globals": "^16.3.0",
     "nightwatch": "^3.12.2",
     "prettier": "3.6.2",
     "ts-node": "^10.9.2",
-    "vite": "^7.0.6",
+    "vite": "^7.1.7",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^8.0.0"
+    "vite-plugin-vue-devtools": "^8.0.2"
   }
 }
