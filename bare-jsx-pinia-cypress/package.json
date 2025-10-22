@@ -23,9 +23,9 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
     "@vitejs/plugin-vue-jsx": "^5.1.1",
-    "cypress": "^15.3.0",
+    "cypress": "^15.5.0",
     "start-server-and-test": "^2.1.2",
-    "vite": "^7.1.7",
-    "vite-plugin-vue-devtools": "^8.0.2"
+    "vite": "^7.1.11",
+    "vite-plugin-vue-devtools": "^8.0.3"
   }
 }

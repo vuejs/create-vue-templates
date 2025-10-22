@@ -22,13 +22,13 @@
     "@nightwatch/vue": "^3.1.2",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/test-utils": "^2.4.6",
-    "chromedriver": "^140.0.4",
-    "geckodriver": "^6.0.1",
+    "chromedriver": "^141.0.3",
+    "geckodriver": "^6.0.2",
     "nightwatch": "^3.12.2",
     "prettier": "3.6.2",
     "ts-node": "^10.9.2",
-    "vite": "^7.1.7",
+    "vite": "^7.1.11",
     "vite-plugin-nightwatch": "^0.4.6",
-    "vite-plugin-vue-devtools": "^8.0.2"
+    "vite-plugin-vue-devtools": "^8.0.3"
   }
 }
