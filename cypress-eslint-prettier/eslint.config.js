@@ -8,7 +8,7 @@ import skipFormatting from '@vue/eslint-config-prettier/skip-formatting'
 export default defineConfig([
   {
     name: 'app/files-to-lint',
-    files: ['**/*.{js,mjs,jsx,vue}'],
+    files: ['**/*.{vue,js,mjs,jsx}'],
   },
 
   globalIgnores(['**/dist/**', '**/dist-ssr/**', '**/coverage/**']),
@@ -23,14 +23,15 @@ export default defineConfig([
 
   js.configs.recommended,
   ...pluginVue.configs['flat/essential'],
-  
+
   {
     ...pluginCypress.configs.recommended,
     files: [
       '**/__tests__/*.{cy,spec}.{js,ts,jsx,tsx}',
       'cypress/e2e/**/*.{cy,spec}.{js,ts,jsx,tsx}',
-      'cypress/support/**/*.{js,ts,jsx,tsx}'
+      'cypress/support/**/*.{js,ts,jsx,tsx}',
     ],
   },
+
   skipFormatting,
 ])

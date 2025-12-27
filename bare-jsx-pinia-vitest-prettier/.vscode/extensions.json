@@ -2,6 +2,6 @@
   "recommendations": [
     "Vue.volar",
     "vitest.explorer",
-    "esbenp.prettier-vscode"
+    "prettier.prettier-vscode"
   ]
 }

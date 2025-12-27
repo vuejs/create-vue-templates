@@ -6,7 +6,7 @@ import pluginVue from 'eslint-plugin-vue'
 export default defineConfig([
   {
     name: 'app/files-to-lint',
-    files: ['**/*.{js,mjs,jsx,vue}'],
+    files: ['**/*.{vue,js,mjs,jsx}'],
   },
 
   globalIgnores(['**/dist/**', '**/dist-ssr/**', '**/coverage/**']),

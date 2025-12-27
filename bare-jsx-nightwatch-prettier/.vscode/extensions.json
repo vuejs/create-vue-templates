@@ -2,6 +2,6 @@
   "recommendations": [
     "Vue.volar",
     "browserstackcom.nightwatch",
-    "esbenp.prettier-vscode"
+    "prettier.prettier-vscode"
   ]
 }

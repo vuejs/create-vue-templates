@@ -2,6 +2,6 @@
   "recommendations": [
     "Vue.volar",
     "ms-playwright.playwright",
-    "esbenp.prettier-vscode"
+    "prettier.prettier-vscode"
   ]
 }
