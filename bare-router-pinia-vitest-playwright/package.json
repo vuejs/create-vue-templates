@@ -22,7 +22,7 @@
     "@playwright/test": "^1.57.0",
     "@vitejs/plugin-vue": "^6.0.3",
     "@vue/test-utils": "^2.4.6",
-    "jsdom": "^27.3.0",
+    "jsdom": "^27.4.0",
     "vite": "^7.3.0",
     "vite-plugin-vue-devtools": "^8.0.5",
     "vitest": "^4.0.16"

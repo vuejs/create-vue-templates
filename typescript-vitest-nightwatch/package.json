@@ -28,7 +28,7 @@
     "@vue/tsconfig": "^0.8.1",
     "chromedriver": "^143.0.3",
     "geckodriver": "^6.1.0",
-    "jsdom": "^27.3.0",
+    "jsdom": "^27.4.0",
     "nightwatch": "^3.14.0",
     "npm-run-all2": "^8.0.4",
     "ts-node": "^10.9.2",
@@ -37,6 +37,6 @@
     "vite-plugin-nightwatch": "^0.4.6",
     "vite-plugin-vue-devtools": "^8.0.5",
     "vitest": "^4.0.16",
-    "vue-tsc": "^3.2.1"
+    "vue-tsc": "^3.2.2"
   }
 }

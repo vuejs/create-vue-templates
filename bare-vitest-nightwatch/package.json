@@ -22,7 +22,7 @@
     "@vue/test-utils": "^2.4.6",
     "chromedriver": "^143.0.3",
     "geckodriver": "^6.1.0",
-    "jsdom": "^27.3.0",
+    "jsdom": "^27.4.0",
     "nightwatch": "^3.14.0",
     "ts-node": "^10.9.2",
     "vite": "^7.3.0",
