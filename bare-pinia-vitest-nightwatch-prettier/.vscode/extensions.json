@@ -3,6 +3,6 @@
     "Vue.volar",
     "vitest.explorer",
     "browserstackcom.nightwatch",
-    "prettier.prettier-vscode"
+    "esbenp.prettier-vscode"
   ]
 }

@@ -3,6 +3,6 @@
     "Vue.volar",
     "vitest.explorer",
     "ms-playwright.playwright",
-    "prettier.prettier-vscode"
+    "esbenp.prettier-vscode"
   ]
 }

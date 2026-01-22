@@ -3,7 +3,7 @@ import globals from 'globals'
 import js from '@eslint/js'
 import pluginVue from 'eslint-plugin-vue'
 import pluginCypress from 'eslint-plugin-cypress'
-import skipFormatting from '@vue/eslint-config-prettier/skip-formatting'
+import skipFormatting from 'eslint-config-prettier/flat'
 
 export default defineConfig([
   {
