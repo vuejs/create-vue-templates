@@ -2,6 +2,7 @@ import { globalIgnores } from 'eslint/config'
 import { defineConfigWithVueTs, vueTsConfigs } from '@vue/eslint-config-typescript'
 import pluginVue from 'eslint-plugin-vue'
 import pluginCypress from 'eslint-plugin-cypress'
+import pluginOxlint from 'eslint-plugin-oxlint'
 import skipFormatting from 'eslint-config-prettier/flat'
 
 // To allow more languages other than `ts` in `.vue` files, uncomment the following lines:
@@ -28,6 +29,8 @@ export default defineConfigWithVueTs(
       'cypress/support/**/*.{js,ts,jsx,tsx}',
     ],
   },
+
+  ...pluginOxlint.configs['flat/recommended'],
 
   skipFormatting,
 )

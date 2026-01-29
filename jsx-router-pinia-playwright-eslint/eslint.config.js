@@ -3,6 +3,7 @@ import globals from 'globals'
 import js from '@eslint/js'
 import pluginVue from 'eslint-plugin-vue'
 import pluginPlaywright from 'eslint-plugin-playwright'
+import pluginOxlint from 'eslint-plugin-oxlint'
 
 export default defineConfig([
   {
@@ -27,4 +28,6 @@ export default defineConfig([
     ...pluginPlaywright.configs['flat/recommended'],
     files: ['e2e/**/*.{test,spec}.{js,ts,jsx,tsx}'],
   },
+
+  ...pluginOxlint.configs['flat/recommended'],
 ])

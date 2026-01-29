@@ -3,6 +3,7 @@ import globals from 'globals'
 import js from '@eslint/js'
 import pluginVue from 'eslint-plugin-vue'
 import pluginCypress from 'eslint-plugin-cypress'
+import pluginOxlint from 'eslint-plugin-oxlint'
 import skipFormatting from 'eslint-config-prettier/flat'
 
 export default defineConfig([
@@ -32,6 +33,8 @@ export default defineConfig([
       'cypress/support/**/*.{js,ts,jsx,tsx}',
     ],
   },
+
+  ...pluginOxlint.configs['flat/recommended'],
 
   skipFormatting,
 ])

@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "pinia": "^3.0.4",
-    "vue": "^3.5.26"
+    "vue": "^3.5.27"
   },
   "devDependencies": {
     "@nightwatch/vue": "^3.1.2",
@@ -24,18 +24,18 @@
     "@vitejs/plugin-vue": "^6.0.3",
     "@vue/test-utils": "^2.4.6",
     "@vue/tsconfig": "^0.8.1",
-    "chromedriver": "^143.0.4",
+    "chromedriver": "^144.0.1",
     "geckodriver": "^6.1.0",
     "jsdom": "^27.4.0",
-    "nightwatch": "^3.14.0",
+    "nightwatch": "^3.15.0",
     "npm-run-all2": "^8.0.4",
     "ts-node": "^10.9.2",
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
     "vite-plugin-nightwatch": "^0.4.6",
     "vite-plugin-vue-devtools": "^8.0.5",
-    "vitest": "^4.0.17",
-    "vue-tsc": "^3.2.2"
+    "vitest": "^4.0.18",
+    "vue-tsc": "^3.2.4"
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0"

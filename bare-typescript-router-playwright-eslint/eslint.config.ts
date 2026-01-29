@@ -2,6 +2,7 @@ import { globalIgnores } from 'eslint/config'
 import { defineConfigWithVueTs, vueTsConfigs } from '@vue/eslint-config-typescript'
 import pluginVue from 'eslint-plugin-vue'
 import pluginPlaywright from 'eslint-plugin-playwright'
+import pluginOxlint from 'eslint-plugin-oxlint'
 
 // To allow more languages other than `ts` in `.vue` files, uncomment the following lines:
 // import { configureVueProject } from '@vue/eslint-config-typescript'
@@ -23,4 +24,6 @@ export default defineConfigWithVueTs(
     ...pluginPlaywright.configs['flat/recommended'],
     files: ['e2e/**/*.{test,spec}.{js,ts,jsx,tsx}'],
   },
+
+  ...pluginOxlint.configs['flat/recommended'],
 )

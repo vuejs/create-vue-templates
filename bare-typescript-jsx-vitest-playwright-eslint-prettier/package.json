@@ -11,14 +11,16 @@
     "test:e2e": "playwright test",
     "build-only": "vite build",
     "type-check": "vue-tsc --build",
-    "lint": "eslint . --fix --cache",
+    "lint": "run-s lint:*",
+    "lint:oxlint": "oxlint . --fix",
+    "lint:eslint": "eslint . --fix --cache",
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
-    "vue": "^3.5.26"
+    "vue": "^3.5.27"
   },
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.58.0",
     "@tsconfig/node24": "^24.0.4",
     "@types/jsdom": "^27.0.0",
     "@types/node": "^24.10.9",
@@ -30,17 +32,19 @@
     "@vue/tsconfig": "^0.8.1",
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-playwright": "^2.5.0",
+    "eslint-plugin-oxlint": "~1.42.0",
+    "eslint-plugin-playwright": "^2.5.1",
     "eslint-plugin-vue": "~10.7.0",
     "jiti": "^2.6.1",
     "jsdom": "^27.4.0",
     "npm-run-all2": "^8.0.4",
+    "oxlint": "~1.42.0",
     "prettier": "3.8.1",
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
     "vite-plugin-vue-devtools": "^8.0.5",
-    "vitest": "^4.0.17",
-    "vue-tsc": "^3.2.2"
+    "vitest": "^4.0.18",
+    "vue-tsc": "^3.2.4"
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
