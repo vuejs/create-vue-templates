@@ -18,7 +18,7 @@
   "dependencies": {
     "pinia": "^3.0.4",
     "vue": "^3.5.27",
-    "vue-router": "^4.6.4"
+    "vue-router": "^5.0.1"
   },
   "devDependencies": {
     "@nightwatch/vue": "^3.1.2",
@@ -30,7 +30,7 @@
     "@vue/eslint-config-typescript": "^14.6.0",
     "@vue/test-utils": "^2.4.6",
     "@vue/tsconfig": "^0.8.1",
-    "chromedriver": "^144.0.1",
+    "chromedriver": "^145.0.0",
     "eslint": "^9.39.2",
     "eslint-plugin-oxlint": "~1.42.0",
     "eslint-plugin-vue": "~10.7.0",

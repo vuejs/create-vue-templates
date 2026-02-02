@@ -35,5 +35,5 @@ export default defineConfig([
     files: ['src/**/__tests__/*'],
   },
 
-  ...pluginOxlint.configs['flat/recommended'],
+  ...pluginOxlint.buildFromOxlintConfigFile('.oxlintrc.json'),
 ])

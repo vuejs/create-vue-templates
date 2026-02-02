@@ -24,7 +24,7 @@
     "eslint": "^9.39.2",
     "eslint-plugin-oxlint": "~1.42.0",
     "eslint-plugin-vue": "~10.7.0",
-    "globals": "^17.2.0",
+    "globals": "^17.3.0",
     "jsdom": "^27.4.0",
     "npm-run-all2": "^8.0.4",
     "oxlint": "~1.42.0",
