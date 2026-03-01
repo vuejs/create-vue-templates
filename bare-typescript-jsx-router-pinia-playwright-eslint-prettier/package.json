@@ -23,7 +23,7 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^24.10.13",
+    "@types/node": "^24.11.0",
     "@vitejs/plugin-vue": "^6.0.4",
     "@vitejs/plugin-vue-jsx": "^5.1.4",
     "@vue/eslint-config-typescript": "^14.7.0",
@@ -31,7 +31,7 @@
     "eslint": "^10.0.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-oxlint": "~1.50.0",
-    "eslint-plugin-playwright": "^2.7.1",
+    "eslint-plugin-playwright": "^2.8.0",
     "eslint-plugin-vue": "~10.8.0",
     "jiti": "^2.6.1",
     "npm-run-all2": "^8.0.4",

@@ -24,7 +24,7 @@
     "@vitejs/plugin-vue-jsx": "^5.1.4",
     "eslint": "^10.0.2",
     "eslint-plugin-oxlint": "~1.50.0",
-    "eslint-plugin-playwright": "^2.7.1",
+    "eslint-plugin-playwright": "^2.8.0",
     "eslint-plugin-vue": "~10.8.0",
     "globals": "^17.3.0",
     "npm-run-all2": "^8.0.4",

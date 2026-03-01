@@ -21,11 +21,11 @@
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
     "@types/jsdom": "^28.0.0",
-    "@types/node": "^24.10.13",
+    "@types/node": "^24.11.0",
     "@vitejs/plugin-vue": "^6.0.4",
     "@vue/test-utils": "^2.4.6",
     "@vue/tsconfig": "^0.8.1",
-    "cypress": "^15.10.0",
+    "cypress": "^15.11.0",
     "jsdom": "^28.1.0",
     "npm-run-all2": "^8.0.4",
     "start-server-and-test": "^2.1.5",

@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.4",
-    "cypress": "^15.10.0",
+    "cypress": "^15.11.0",
     "prettier": "3.8.1",
     "start-server-and-test": "^2.1.5",
     "vite": "^7.3.1",
