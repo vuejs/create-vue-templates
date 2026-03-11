@@ -14,7 +14,7 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
-    "vue": "^3.5.29",
+    "vue": "^3.5.30",
     "vue-router": "^5.0.3"
   },
   "devDependencies": {
@@ -23,7 +23,7 @@
     "cypress": "^15.11.0",
     "start-server-and-test": "^2.1.5",
     "vite": "^7.3.1",
-    "vite-plugin-vue-devtools": "^8.0.6"
+    "vite-plugin-vue-devtools": "^8.0.7"
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
