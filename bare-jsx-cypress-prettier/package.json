@@ -15,15 +15,15 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
-    "vue": "^3.5.31"
+    "vue": "^3.5.32"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.5",
+    "@vitejs/plugin-vue": "^6.0.6",
     "@vitejs/plugin-vue-jsx": "^5.1.5",
-    "cypress": "^15.13.0",
-    "prettier": "3.8.1",
+    "cypress": "^15.14.0",
+    "prettier": "3.8.3",
     "start-server-and-test": "^2.1.5",
-    "vite": "^8.0.3",
+    "vite": "^8.0.8",
     "vite-plugin-vue-devtools": "^8.1.1"
   },
   "engines": {
