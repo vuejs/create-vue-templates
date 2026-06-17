@@ -16,19 +16,19 @@
   },
   "dependencies": {
     "pinia": "^3.0.4",
-    "vue": "^3.5.32",
-    "vue-router": "^5.0.4"
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.6",
+    "@vitejs/plugin-vue": "^6.0.7",
     "@vitejs/plugin-vue-jsx": "^5.1.5",
-    "cypress": "^15.14.0",
-    "prettier": "3.8.3",
-    "start-server-and-test": "^2.1.5",
-    "vite": "^8.0.8",
-    "vite-plugin-vue-devtools": "^8.1.1"
+    "cypress": "^15.17.0",
+    "prettier": "3.8.4",
+    "start-server-and-test": "^3.0.11",
+    "vite": "^8.0.16",
+    "vite-plugin-vue-devtools": "^8.1.2"
   },
   "engines": {
-    "node": "^20.19.0 || >=22.12.0"
+    "node": "^22.18.0 || >=24.12.0"
   }
 }

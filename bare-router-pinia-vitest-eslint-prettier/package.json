@@ -8,35 +8,36 @@
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "lint": "run-s lint:*",
+    "lint": "run-s \"lint:*\"",
     "lint:oxlint": "oxlint . --fix",
     "lint:eslint": "eslint . --fix --cache",
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
     "pinia": "^3.0.4",
-    "vue": "^3.5.32",
-    "vue-router": "^5.0.4"
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@vitejs/plugin-vue": "^6.0.6",
-    "@vitest/eslint-plugin": "^1.6.16",
-    "@vue/test-utils": "^2.4.6",
-    "eslint": "^10.2.1",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "@vitest/eslint-plugin": "^1.6.20",
+    "@vue/test-utils": "^2.4.11",
+    "eslint": "^10.5.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-oxlint": "~1.60.0",
-    "eslint-plugin-vue": "~10.8.0",
-    "globals": "^17.5.0",
-    "jsdom": "^29.0.2",
-    "npm-run-all2": "^8.0.4",
-    "oxlint": "~1.60.0",
-    "prettier": "3.8.3",
-    "vite": "^8.0.8",
-    "vite-plugin-vue-devtools": "^8.1.1",
-    "vitest": "^4.1.4"
+    "eslint-plugin-oxlint": "~1.69.0",
+    "eslint-plugin-vue": "~10.9.2",
+    "globals": "^17.6.0",
+    "jsdom": "^29.1.1",
+    "npm-run-all2": "^9.0.2",
+    "oxlint": "~1.69.0",
+    "prettier": "3.8.4",
+    "vite": "^8.0.16",
+    "vite-plugin-vue-devtools": "^8.1.2",
+    "vitest": "^4.1.9",
+    "vue-eslint-parser": "^10.4.1"
   },
   "engines": {
-    "node": "^20.19.0 || >=22.12.0"
+    "node": "^22.18.0 || >=24.12.0"
   }
 }
