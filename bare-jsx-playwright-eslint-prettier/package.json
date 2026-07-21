@@ -14,24 +14,24 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
-    "vue": "^3.5.38"
+    "vue": "^3.5.40"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@playwright/test": "^1.61.0",
-    "@vitejs/plugin-vue": "^6.0.7",
-    "@vitejs/plugin-vue-jsx": "^5.1.5",
-    "eslint": "^10.5.0",
+    "@playwright/test": "^1.61.1",
+    "@vitejs/plugin-vue": "^6.0.8",
+    "@vitejs/plugin-vue-jsx": "^5.1.6",
+    "eslint": "^10.7.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-oxlint": "~1.69.0",
-    "eslint-plugin-playwright": "^2.10.4",
+    "eslint-plugin-oxlint": "~1.73.0",
+    "eslint-plugin-playwright": "^2.10.5",
     "eslint-plugin-vue": "~10.9.2",
-    "globals": "^17.6.0",
+    "globals": "^17.7.0",
     "npm-run-all2": "^9.0.2",
-    "oxlint": "~1.69.0",
-    "prettier": "3.8.4",
-    "vite": "^8.0.16",
-    "vite-plugin-vue-devtools": "^8.1.2",
+    "oxlint": "~1.74.0",
+    "prettier": "3.9.5",
+    "vite": "^8.1.5",
+    "vite-plugin-vue-devtools": "^8.1.5",
     "vue-eslint-parser": "^10.4.1"
   },
   "engines": {
