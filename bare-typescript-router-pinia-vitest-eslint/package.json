@@ -15,32 +15,32 @@
     "lint:eslint": "eslint . --fix --cache"
   },
   "dependencies": {
-    "pinia": "^4.0.2",
-    "vue": "^3.5.40",
-    "vue-router": "^5.2.0"
+    "pinia": "^4.0.3",
+    "vue": "^3.5.42",
+    "vue-router": "^5.3.1"
   },
   "devDependencies": {
-    "@tsconfig/node24": "^24.0.4",
-    "@types/jsdom": "^28.0.3",
-    "@types/node": "^24.13.3",
+    "@tsconfig/node24": "^24.0.5",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^24.13.4",
     "@vitejs/plugin-vue": "^6.0.8",
-    "@vitest/eslint-plugin": "^1.6.23",
+    "@vitest/eslint-plugin": "^1.6.27",
     "@vue/eslint-config-typescript": "^14.9.0",
-    "@vue/test-utils": "^2.4.11",
+    "@vue/test-utils": "^2.5.0",
     "@vue/tsconfig": "^0.9.1",
-    "eslint": "^10.7.0",
-    "eslint-plugin-oxlint": "~1.73.0",
-    "eslint-plugin-vue": "~10.9.2",
+    "eslint": "^10.10.0",
+    "eslint-plugin-oxlint": "~1.82.0",
+    "eslint-plugin-vue": "~10.11.0",
     "jiti": "^2.7.0",
-    "jsdom": "^29.1.1",
-    "npm-run-all2": "^9.0.2",
-    "oxlint": "~1.74.0",
+    "jsdom": "^30.0.1",
+    "npm-run-all2": "^9.0.3",
+    "oxlint": "~1.82.0",
     "typescript": "~6.0.0",
-    "vite": "^8.1.5",
-    "vite-plugin-vue-devtools": "^8.1.5",
-    "vitest": "^4.1.10",
+    "vite": "^8.2.2",
+    "vite-plugin-vue-devtools": "^8.2.1",
+    "vitest": "^4.1.11",
     "vue-eslint-parser": "^10.4.1",
-    "vue-tsc": "^3.3.7"
+    "vue-tsc": "^3.3.11"
   },
   "engines": {
     "node": "^22.18.0 || >=24.12.0"
